@@ -1,0 +1,4673 @@
+{
+  "type": "FeatureCollection",
+  "name": "The Signal open geographic subset",
+  "licence": "https://opendatacommons.org/licenses/odbl/1-0/",
+  "attribution": "© OpenStreetMap contributors. Contains Historic Environment Scotland and OS data © Historic Environment Scotland and Crown copyright and database right 2026, licensed under OGL v3.0.",
+  "transformations": "Selected named representative coordinates, bounds centres and Signal-constructed connections. The Mary coastal terminal is an authored projected-axis intersection with OSM coastline. Individual source licences and methods are retained. No app source code, readings, personal information or scoring weights are included.",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.58543,
+          51.145
+        ]
+      },
+      "properties": {
+        "id": "glastonbury_festival_stone_circle",
+        "name": "Glastonbury Festival Stone Circle",
+        "record_kind": "catalogue_coordinate",
+        "source_dataset": "sites_google_uk_ie_a.dataset",
+        "source_url": "https://www.openstreetmap.org/way/1052845455",
+        "licence": "https://opendatacommons.org/licenses/odbl/1-0/",
+        "coordinate_method": "representative_point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.3738978,
+          55.0035721
+        ]
+      },
+      "properties": {
+        "id": "sycamore_gap_tree",
+        "name": "Sycamore Gap Tree",
+        "record_kind": "catalogue_coordinate",
+        "source_dataset": "sites_uk_special_trees.dataset",
+        "source_url": "https://www.openstreetmap.org/node/2780045653",
+        "licence": "https://opendatacommons.org/licenses/odbl/1-0/",
+        "coordinate_method": "representative_point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.0724681,
+          53.2046562
+        ]
+      },
+      "properties": {
+        "id": "major_oak",
+        "name": "Major Oak",
+        "record_kind": "catalogue_coordinate",
+        "source_dataset": "sites_uk_special_trees.dataset",
+        "source_url": "https://www.openstreetmap.org/node/455984558",
+        "licence": "https://opendatacommons.org/licenses/odbl/1-0/",
+        "coordinate_method": "representative_point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.556533,
+          51.444661
+        ]
+      },
+      "properties": {
+        "id": "ankerwycke_yew",
+        "name": "Ankerwycke Yew",
+        "record_kind": "catalogue_coordinate",
+        "source_dataset": "sites_uk_special_trees.dataset",
+        "source_url": "https://www.openstreetmap.org/node/1725620097",
+        "licence": "https://opendatacommons.org/licenses/odbl/1-0/",
+        "coordinate_method": "representative_point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.421216,
+          52.7251813
+        ]
+      },
+      "properties": {
+        "id": "bowthorpe_oak",
+        "name": "Bowthorpe Oak",
+        "record_kind": "catalogue_coordinate",
+        "source_dataset": "sites_uk_special_trees.dataset",
+        "source_url": "https://www.openstreetmap.org/node/3635951741",
+        "licence": "https://opendatacommons.org/licenses/odbl/1-0/",
+        "coordinate_method": "representative_point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.4284559,
+          51.6374774
+        ]
+      },
+      "properties": {
+        "id": "tortworth_chestnut",
+        "name": "Tortworth Chestnut",
+        "record_kind": "catalogue_coordinate",
+        "source_dataset": "sites_uk_special_trees.dataset",
+        "source_url": "https://www.openstreetmap.org/node/31735638",
+        "licence": "https://opendatacommons.org/licenses/odbl/1-0/",
+        "coordinate_method": "representative_point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.3515918,
+          50.9837232
+        ]
+      },
+      "properties": {
+        "id": "ashbrittle_yew",
+        "name": "Ashbrittle Yew",
+        "record_kind": "catalogue_coordinate",
+        "source_dataset": "sites_uk_special_trees.dataset",
+        "source_url": "https://www.openstreetmap.org/node/7763446085",
+        "licence": "https://opendatacommons.org/licenses/odbl/1-0/",
+        "coordinate_method": "representative_point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.2968438,
+          50.7494204
+        ]
+      },
+      "properties": {
+        "id": "tolpuddle_martyrs_tree",
+        "name": "Tolpuddle Martyrs’ Tree",
+        "record_kind": "catalogue_coordinate",
+        "source_dataset": "sites_uk_special_trees.dataset",
+        "source_url": "https://www.openstreetmap.org/node/1589880634",
+        "licence": "https://opendatacommons.org/licenses/odbl/1-0/",
+        "coordinate_method": "representative_point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.6308442,
+          52.8090654
+        ]
+      },
+      "properties": {
+        "id": "newtons_apple_tree",
+        "name": "Newton’s Apple Tree",
+        "record_kind": "catalogue_coordinate",
+        "source_dataset": "sites_uk_special_trees.dataset",
+        "source_url": "https://www.openstreetmap.org/node/3402214833",
+        "licence": "https://opendatacommons.org/licenses/odbl/1-0/",
+        "coordinate_method": "representative_point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0103562,
+          51.2094573
+        ]
+      },
+      "properties": {
+        "id": "crowhurst_yew",
+        "name": "Crowhurst Yew",
+        "record_kind": "catalogue_coordinate",
+        "source_dataset": "sites_uk_special_trees.dataset",
+        "source_url": "https://www.openstreetmap.org/node/8645057343",
+        "licence": "https://opendatacommons.org/licenses/odbl/1-0/",
+        "coordinate_method": "representative_point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.7162263,
+          51.1478674
+        ]
+      },
+      "properties": {
+        "id": "glastonbury_holy_thorn_st_johns",
+        "name": "Glastonbury Holy Thorn — St John’s",
+        "record_kind": "catalogue_coordinate",
+        "source_dataset": "sites_uk_special_trees.dataset",
+        "source_url": "https://www.openstreetmap.org/node/7039610707",
+        "licence": "https://opendatacommons.org/licenses/odbl/1-0/",
+        "coordinate_method": "representative_point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6850647,
+          53.1923482
+        ]
+      },
+      "properties": {
+        "id": "llangernyw_yew",
+        "name": "Llangernyw Yew",
+        "record_kind": "catalogue_coordinate",
+        "source_dataset": "sites_uk_special_trees.dataset",
+        "source_url": "https://www.openstreetmap.org/node/5896467772",
+        "licence": "https://opendatacommons.org/licenses/odbl/1-0/",
+        "coordinate_method": "representative_point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.5647758,
+          51.9397035
+        ]
+      },
+      "properties": {
+        "id": "defynnog_yew",
+        "name": "Defynnog Yew",
+        "record_kind": "catalogue_coordinate",
+        "source_dataset": "sites_uk_special_trees.dataset",
+        "source_url": "https://www.openstreetmap.org/node/14106191366",
+        "licence": "https://opendatacommons.org/licenses/odbl/1-0/",
+        "coordinate_method": "representative_point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.4903757,
+          53.146932
+        ]
+      },
+      "properties": {
+        "id": "pulpit_yew_nantglyn",
+        "name": "Pulpit Yew",
+        "record_kind": "catalogue_coordinate",
+        "source_dataset": "sites_uk_special_trees.dataset",
+        "source_url": "https://www.openstreetmap.org/node/5896767807",
+        "licence": "https://opendatacommons.org/licenses/odbl/1-0/",
+        "coordinate_method": "representative_point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.7951289,
+          52.025203
+        ]
+      },
+      "properties": {
+        "id": "bleeding_yew_nevern",
+        "name": "Bleeding Yew",
+        "record_kind": "catalogue_coordinate",
+        "source_dataset": "sites_uk_special_trees.dataset",
+        "source_url": "https://www.openstreetmap.org/node/9769878838",
+        "licence": "https://opendatacommons.org/licenses/odbl/1-0/",
+        "coordinate_method": "representative_point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0508884,
+          56.59822
+        ]
+      },
+      "properties": {
+        "id": "fortingall_yew",
+        "name": "Fortingall Yew",
+        "record_kind": "catalogue_coordinate",
+        "source_dataset": "sites_uk_special_trees.dataset",
+        "source_url": "https://www.openstreetmap.org/node/3037158139",
+        "licence": "https://opendatacommons.org/licenses/odbl/1-0/",
+        "coordinate_method": "representative_point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.5757047,
+          56.5613364
+        ]
+      },
+      "properties": {
+        "id": "birnam_oak",
+        "name": "Birnam Oak",
+        "record_kind": "catalogue_coordinate",
+        "source_dataset": "sites_uk_special_trees.dataset",
+        "source_url": "https://www.openstreetmap.org/node/3639903710",
+        "licence": "https://opendatacommons.org/licenses/odbl/1-0/",
+        "coordinate_method": "representative_point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.553699,
+          55.4622998
+        ]
+      },
+      "properties": {
+        "id": "capon_tree",
+        "name": "Capon Tree",
+        "record_kind": "catalogue_coordinate",
+        "source_dataset": "sites_uk_special_trees.dataset",
+        "source_url": "https://www.openstreetmap.org/node/5122619926",
+        "licence": "https://opendatacommons.org/licenses/odbl/1-0/",
+        "coordinate_method": "representative_point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9417237,
+          55.8979893
+        ]
+      },
+      "properties": {
+        "id": "great_yew_of_ormiston",
+        "name": "Great Yew of Ormiston",
+        "record_kind": "catalogue_coordinate",
+        "source_dataset": "sites_uk_special_trees.dataset",
+        "source_url": "https://www.openstreetmap.org/node/1888319972",
+        "licence": "https://opendatacommons.org/licenses/odbl/1-0/",
+        "coordinate_method": "representative_point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.7229609,
+          54.2541069
+        ]
+      },
+      "properties": {
+        "id": "florence_court_irish_yew",
+        "name": "Florence Court Irish Yew",
+        "record_kind": "catalogue_coordinate",
+        "source_dataset": "sites_uk_special_trees.dataset",
+        "source_url": "https://www.openstreetmap.org/node/5274376196",
+        "licence": "https://opendatacommons.org/licenses/odbl/1-0/",
+        "coordinate_method": "representative_point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.4432257,
+          54.1621514
+        ]
+      },
+      "properties": {
+        "id": "great_yews_of_crom",
+        "name": "Great Yews of Crom",
+        "record_kind": "catalogue_coordinate",
+        "source_dataset": "sites_uk_special_trees.dataset",
+        "source_url": "https://www.openstreetmap.org/way/704886576",
+        "licence": "https://opendatacommons.org/licenses/odbl/1-0/",
+        "coordinate_method": "representative_point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.826183,
+          51.1788293
+        ]
+      },
+      "properties": {
+        "id": "stonehenge",
+        "name": "Stonehenge",
+        "record_kind": "catalogue_coordinate",
+        "source_dataset": "heritage_sites.geojson",
+        "source_url": "https://www.openstreetmap.org/way/37118074",
+        "licence": "https://opendatacommons.org/licenses/odbl/1-0/",
+        "coordinate_method": "nominatim_representative_point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.69877,
+          51.14468
+        ]
+      },
+      "properties": {
+        "id": "glastonbury_tor",
+        "name": "Glastonbury Tor",
+        "record_kind": "catalogue_coordinate",
+        "source_dataset": "heritage_sites.geojson",
+        "source_url": "https://www.openstreetmap.org/node/608628358",
+        "licence": "https://opendatacommons.org/licenses/odbl/1-0/",
+        "coordinate_method": "nominatim_representative_point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.8517053,
+          51.4286099
+        ]
+      },
+      "properties": {
+        "id": "avebury_stone_circle",
+        "name": "Avebury Stone Circle",
+        "record_kind": "catalogue_coordinate",
+        "source_dataset": "heritage_sites.geojson",
+        "source_url": "https://www.openstreetmap.org/way/353244910",
+        "licence": "https://opendatacommons.org/licenses/odbl/1-0/",
+        "coordinate_method": "nominatim_representative_point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.7060151,
+          51.1437803
+        ]
+      },
+      "properties": {
+        "id": "chalice_well",
+        "name": "Chalice Well",
+        "record_kind": "catalogue_coordinate",
+        "source_dataset": "heritage_sites.geojson",
+        "source_url": "https://www.openstreetmap.org/node/7295161985",
+        "licence": "https://opendatacommons.org/licenses/odbl/1-0/",
+        "coordinate_method": "nominatim_representative_point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.4776149,
+          50.1175645
+        ]
+      },
+      "properties": {
+        "id": "st_michaels_mount",
+        "name": "St Michael's Mount",
+        "record_kind": "catalogue_coordinate",
+        "source_dataset": "heritage_sites.geojson",
+        "source_url": "https://www.openstreetmap.org/way/147209474",
+        "licence": "https://opendatacommons.org/licenses/odbl/1-0/",
+        "coordinate_method": "nominatim_representative_point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.762152,
+          50.6686663
+        ]
+      },
+      "properties": {
+        "id": "tintagel_castle",
+        "name": "Tintagel Castle",
+        "record_kind": "catalogue_coordinate",
+        "source_dataset": "heritage_sites.geojson",
+        "source_url": "https://www.openstreetmap.org/way/1354036527",
+        "licence": "https://opendatacommons.org/licenses/odbl/1-0/",
+        "coordinate_method": "nominatim_representative_point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.7450743,
+          58.1978204
+        ]
+      },
+      "properties": {
+        "id": "callanish_stones",
+        "name": "Callanish Stones",
+        "record_kind": "catalogue_coordinate",
+        "source_dataset": "heritage_sites.geojson",
+        "source_url": "https://www.openstreetmap.org/relation/10730544",
+        "licence": "https://opendatacommons.org/licenses/odbl/1-0/",
+        "coordinate_method": "osm_bounds_centre"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.3913639,
+          56.3350314
+        ]
+      },
+      "properties": {
+        "id": "iona_abbey",
+        "name": "Iona Abbey / Isle of Iona",
+        "record_kind": "catalogue_coordinate",
+        "source_dataset": "heritage_sites.geojson",
+        "source_url": "https://www.openstreetmap.org/relation/11299039",
+        "licence": "https://opendatacommons.org/licenses/odbl/1-0/",
+        "coordinate_method": "nominatim_representative_point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.8008977,
+          55.6691319
+        ]
+      },
+      "properties": {
+        "id": "lindisfarne_priory",
+        "name": "Holy Island / Lindisfarne Priory",
+        "record_kind": "catalogue_coordinate",
+        "source_dataset": "heritage_sites.geojson",
+        "source_url": "https://www.openstreetmap.org/node/292001558",
+        "licence": "https://opendatacommons.org/licenses/odbl/1-0/",
+        "coordinate_method": "nominatim_representative_point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.1599363,
+          55.8553873
+        ]
+      },
+      "properties": {
+        "id": "rosslyn_chapel",
+        "name": "Rosslyn Chapel",
+        "record_kind": "catalogue_coordinate",
+        "source_dataset": "heritage_sites.geojson",
+        "source_url": "https://www.openstreetmap.org/way/245945607",
+        "licence": "https://opendatacommons.org/licenses/odbl/1-0/",
+        "coordinate_method": "nominatim_representative_point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.2298959,
+          59.0016482
+        ]
+      },
+      "properties": {
+        "id": "ring_of_brodgar",
+        "name": "Ring of Brodgar",
+        "record_kind": "catalogue_coordinate",
+        "source_dataset": "heritage_sites.geojson",
+        "source_url": "https://www.openstreetmap.org/way/268713656",
+        "licence": "https://opendatacommons.org/licenses/odbl/1-0/",
+        "coordinate_method": "nominatim_representative_point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.098376,
+          54.6028511
+        ]
+      },
+      "properties": {
+        "id": "castlerigg_stone_circle",
+        "name": "Castlerigg Stone Circle",
+        "record_kind": "catalogue_coordinate",
+        "source_dataset": "heritage_sites.geojson",
+        "source_url": "https://www.openstreetmap.org/way/32973419",
+        "licence": "https://opendatacommons.org/licenses/odbl/1-0/",
+        "coordinate_method": "nominatim_representative_point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.2236094,
+          53.2771587
+        ]
+      },
+      "properties": {
+        "id": "st_winefrides_well",
+        "name": "St Winefride's Well",
+        "record_kind": "catalogue_coordinate",
+        "source_dataset": "heritage_sites.geojson",
+        "source_url": "https://www.openstreetmap.org/node/3403640923",
+        "licence": "https://opendatacommons.org/licenses/odbl/1-0/",
+        "coordinate_method": "nominatim_representative_point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.7699136,
+          51.9990085
+        ]
+      },
+      "properties": {
+        "id": "pentre_ifan",
+        "name": "Pentre Ifan",
+        "record_kind": "catalogue_coordinate",
+        "source_dataset": "heritage_sites.geojson",
+        "source_url": "https://www.openstreetmap.org/way/516606701",
+        "licence": "https://opendatacommons.org/licenses/odbl/1-0/",
+        "coordinate_method": "nominatim_representative_point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2361354,
+          53.2077244
+        ]
+      },
+      "properties": {
+        "id": "bryn_celli_ddu",
+        "name": "Bryn Celli Ddu",
+        "record_kind": "catalogue_coordinate",
+        "source_dataset": "heritage_sites.geojson",
+        "source_url": "https://www.openstreetmap.org/way/919723575",
+        "licence": "https://opendatacommons.org/licenses/odbl/1-0/",
+        "coordinate_method": "nominatim_representative_point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.2684294,
+          51.8820299
+        ]
+      },
+      "properties": {
+        "id": "st_davids_cathedral",
+        "name": "St Davids Cathedral",
+        "record_kind": "catalogue_coordinate",
+        "source_dataset": "heritage_sites.geojson",
+        "source_url": "https://www.openstreetmap.org/way/24888825",
+        "licence": "https://opendatacommons.org/licenses/odbl/1-0/",
+        "coordinate_method": "nominatim_representative_point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.7154745,
+          51.146387
+        ]
+      },
+      "properties": {
+        "id": "glastonbury_abbey",
+        "name": "Glastonbury Abbey",
+        "record_kind": "catalogue_coordinate",
+        "source_dataset": "heritage_sites.geojson",
+        "source_url": "https://www.openstreetmap.org/way/119916405",
+        "licence": "https://opendatacommons.org/licenses/odbl/1-0/",
+        "coordinate_method": "nominatim_representative_point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.8504375,
+          51.4086455
+        ]
+      },
+      "properties": {
+        "id": "west_kennet_long_barrow",
+        "name": "West Kennet Long Barrow",
+        "record_kind": "catalogue_coordinate",
+        "source_dataset": "heritage_sites.geojson",
+        "source_url": "https://www.openstreetmap.org/node/370206805",
+        "licence": "https://opendatacommons.org/licenses/odbl/1-0/",
+        "coordinate_method": "nominatim_representative_point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.8573823,
+          51.4157156
+        ]
+      },
+      "properties": {
+        "id": "silbury_hill",
+        "name": "Silbury Hill",
+        "record_kind": "catalogue_coordinate",
+        "source_dataset": "heritage_sites.geojson",
+        "source_url": "https://www.openstreetmap.org/node/11218032230",
+        "licence": "https://opendatacommons.org/licenses/odbl/1-0/",
+        "coordinate_method": "nominatim_representative_point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.6044973,
+          50.1585598
+        ]
+      },
+      "properties": {
+        "id": "men_an_tol",
+        "name": "Mên-an-Tol",
+        "record_kind": "catalogue_coordinate",
+        "source_dataset": "heritage_sites.geojson",
+        "source_url": "https://www.openstreetmap.org/way/390207429",
+        "licence": "https://opendatacommons.org/licenses/odbl/1-0/",
+        "coordinate_method": "nominatim_representative_point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.5887742,
+          50.0651266
+        ]
+      },
+      "properties": {
+        "id": "merry_maidens",
+        "name": "Merry Maidens Stone Circle",
+        "record_kind": "catalogue_coordinate",
+        "source_dataset": "heritage_sites.geojson",
+        "source_url": "https://www.openstreetmap.org/relation/12240643",
+        "licence": "https://opendatacommons.org/licenses/odbl/1-0/",
+        "coordinate_method": "nominatim_representative_point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.619321,
+          50.0898493
+        ]
+      },
+      "properties": {
+        "id": "boscawen_un",
+        "name": "Boscawen-Un",
+        "record_kind": "catalogue_coordinate",
+        "source_dataset": "heritage_sites.geojson",
+        "source_url": "https://www.openstreetmap.org/way/301802425",
+        "licence": "https://opendatacommons.org/licenses/odbl/1-0/",
+        "coordinate_method": "nominatim_representative_point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5683078,
+          51.9757583
+        ]
+      },
+      "properties": {
+        "id": "rollright_stones",
+        "name": "Rollright Stones",
+        "record_kind": "catalogue_coordinate",
+        "source_dataset": "heritage_sites.geojson",
+        "source_url": "https://www.openstreetmap.org/relation/10452682",
+        "licence": "https://opendatacommons.org/licenses/odbl/1-0/",
+        "coordinate_method": "osm_bounds_centre"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.6288033,
+          53.167983
+        ]
+      },
+      "properties": {
+        "id": "nine_ladies",
+        "name": "Nine Ladies Stone Circle",
+        "record_kind": "catalogue_coordinate",
+        "source_dataset": "heritage_sites.geojson",
+        "source_url": "https://www.openstreetmap.org/way/95697435",
+        "licence": "https://opendatacommons.org/licenses/odbl/1-0/",
+        "coordinate_method": "nominatim_representative_point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.7615222,
+          53.16893
+        ]
+      },
+      "properties": {
+        "id": "arbor_low",
+        "name": "Arbor Low",
+        "record_kind": "catalogue_coordinate",
+        "source_dataset": "heritage_sites.geojson",
+        "source_url": "https://www.openstreetmap.org/node/303571761",
+        "licence": "https://opendatacommons.org/licenses/odbl/1-0/",
+        "coordinate_method": "nominatim_representative_point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.562613,
+          54.2089368
+        ]
+      },
+      "properties": {
+        "id": "thornborough_henges",
+        "name": "Thornborough Henges",
+        "record_kind": "catalogue_coordinate",
+        "source_dataset": "heritage_sites.geojson",
+        "source_url": "https://www.openstreetmap.org/way/192266091",
+        "licence": "https://opendatacommons.org/licenses/odbl/1-0/",
+        "coordinate_method": "nominatim_representative_point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5665564,
+          51.5777407
+        ]
+      },
+      "properties": {
+        "id": "uffington_white_horse",
+        "name": "Uffington White Horse",
+        "record_kind": "catalogue_coordinate",
+        "source_dataset": "heritage_sites.geojson",
+        "source_url": "https://www.openstreetmap.org/relation/1618450",
+        "licence": "https://opendatacommons.org/licenses/odbl/1-0/",
+        "coordinate_method": "nominatim_representative_point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5961306,
+          51.5667481
+        ]
+      },
+      "properties": {
+        "id": "waylands_smithy",
+        "name": "Wayland's Smithy",
+        "record_kind": "catalogue_coordinate",
+        "source_dataset": "heritage_sites.geojson",
+        "source_url": "https://www.openstreetmap.org/way/349634594",
+        "licence": "https://opendatacommons.org/licenses/odbl/1-0/",
+        "coordinate_method": "nominatim_representative_point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.4748234,
+          50.8136679
+        ]
+      },
+      "properties": {
+        "id": "cerne_abbas_giant",
+        "name": "Cerne Abbas Giant",
+        "record_kind": "catalogue_coordinate",
+        "source_dataset": "heritage_sites.geojson",
+        "source_url": "https://www.openstreetmap.org/way/660725451",
+        "licence": "https://opendatacommons.org/licenses/odbl/1-0/",
+        "coordinate_method": "nominatim_representative_point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.8527662,
+          52.8805669
+        ]
+      },
+      "properties": {
+        "id": "walsingham_slipper_chapel",
+        "name": "Walsingham / Slipper Chapel",
+        "record_kind": "catalogue_coordinate",
+        "source_dataset": "heritage_sites.geojson",
+        "source_url": "https://www.openstreetmap.org/way/387358850",
+        "licence": "https://opendatacommons.org/licenses/odbl/1-0/",
+        "coordinate_method": "nominatim_representative_point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.082766,
+          51.2798
+        ]
+      },
+      "properties": {
+        "id": "canterbury_cathedral",
+        "name": "Canterbury Cathedral",
+        "record_kind": "catalogue_coordinate",
+        "source_dataset": "heritage_sites.geojson",
+        "source_url": "https://www.openstreetmap.org/way/28021345",
+        "licence": "https://opendatacommons.org/licenses/odbl/1-0/",
+        "coordinate_method": "nominatim_representative_point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5763333,
+          54.773262
+        ]
+      },
+      "properties": {
+        "id": "durham_cathedral",
+        "name": "Durham Cathedral",
+        "record_kind": "catalogue_coordinate",
+        "source_dataset": "heritage_sites.geojson",
+        "source_url": "https://www.openstreetmap.org/relation/3584722",
+        "licence": "https://opendatacommons.org/licenses/odbl/1-0/",
+        "coordinate_method": "nominatim_representative_point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.7162635,
+          50.664657
+        ]
+      },
+      "properties": {
+        "id": "st_nectans_kieve",
+        "name": "St Nectan's Kieve",
+        "record_kind": "catalogue_coordinate",
+        "source_dataset": "heritage_sites.geojson",
+        "source_url": "https://www.openstreetmap.org/node/3061433933",
+        "licence": "https://opendatacommons.org/licenses/odbl/1-0/",
+        "coordinate_method": "nominatim_representative_point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.7054231,
+          51.1438833
+        ]
+      },
+      "properties": {
+        "id": "white_spring",
+        "name": "White Spring",
+        "record_kind": "catalogue_coordinate",
+        "source_dataset": "heritage_sites.geojson",
+        "source_url": "https://www.openstreetmap.org/node/10243478272",
+        "licence": "https://opendatacommons.org/licenses/odbl/1-0/",
+        "coordinate_method": "nominatim_representative_point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.2080799,
+          58.9940331
+        ]
+      },
+      "properties": {
+        "id": "stones_of_stenness",
+        "name": "Stones of Stenness",
+        "record_kind": "catalogue_coordinate",
+        "source_dataset": "heritage_sites.geojson",
+        "source_url": "https://www.openstreetmap.org/way/782724929",
+        "licence": "https://opendatacommons.org/licenses/odbl/1-0/",
+        "coordinate_method": "nominatim_representative_point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.1881733,
+          58.9965229
+        ]
+      },
+      "properties": {
+        "id": "maeshowe",
+        "name": "Maeshowe",
+        "record_kind": "catalogue_coordinate",
+        "source_dataset": "heritage_sites.geojson",
+        "source_url": "https://www.openstreetmap.org/way/288905594",
+        "licence": "https://opendatacommons.org/licenses/odbl/1-0/",
+        "coordinate_method": "nominatim_representative_point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.073688,
+          57.4730629
+        ]
+      },
+      "properties": {
+        "id": "clava_cairns",
+        "name": "Clava Cairns",
+        "record_kind": "catalogue_coordinate",
+        "source_dataset": "heritage_sites.geojson",
+        "source_url": "https://www.openstreetmap.org/way/41662537",
+        "licence": "https://opendatacommons.org/licenses/odbl/1-0/",
+        "coordinate_method": "nominatim_representative_point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1003003,
+          56.6669296
+        ]
+      },
+      "properties": {
+        "id": "schiehallion",
+        "name": "Schiehallion",
+        "record_kind": "catalogue_coordinate",
+        "source_dataset": "heritage_sites.geojson",
+        "source_url": "https://www.openstreetmap.org/node/273925520",
+        "licence": "https://opendatacommons.org/licenses/odbl/1-0/",
+        "coordinate_method": "nominatim_representative_point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.3279261,
+          57.5826056
+        ]
+      },
+      "properties": {
+        "id": "fairy_glen",
+        "name": "Fairy Glen",
+        "record_kind": "catalogue_coordinate",
+        "source_dataset": "heritage_sites.geojson",
+        "source_url": "https://www.openstreetmap.org/way/1459498810",
+        "licence": "https://opendatacommons.org/licenses/odbl/1-0/",
+        "coordinate_method": "nominatim_representative_point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.4491264,
+          54.6938497
+        ]
+      },
+      "properties": {
+        "id": "st_ninians_cave",
+        "name": "St Ninian's Cave",
+        "record_kind": "catalogue_coordinate",
+        "source_dataset": "heritage_sites.geojson",
+        "source_url": "https://www.openstreetmap.org/node/2996588940",
+        "licence": "https://opendatacommons.org/licenses/odbl/1-0/",
+        "coordinate_method": "nominatim_representative_point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.417499,
+          54.7334969
+        ]
+      },
+      "properties": {
+        "id": "whithorn_priory",
+        "name": "Whithorn Priory",
+        "record_kind": "catalogue_coordinate",
+        "source_dataset": "heritage_sites.geojson",
+        "source_url": "https://www.openstreetmap.org/way/775781232",
+        "licence": "https://opendatacommons.org/licenses/odbl/1-0/",
+        "coordinate_method": "osm_bounds_centre"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0788733,
+          53.0223874
+        ]
+      },
+      "properties": {
+        "id": "dinas_emrys",
+        "name": "Dinas Emrys",
+        "record_kind": "catalogue_coordinate",
+        "source_dataset": "heritage_sites.geojson",
+        "source_url": "https://www.openstreetmap.org/way/1056190090",
+        "licence": "https://opendatacommons.org/licenses/odbl/1-0/",
+        "coordinate_method": "nominatim_representative_point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9088003,
+          52.6995951
+        ]
+      },
+      "properties": {
+        "id": "cadair_idris",
+        "name": "Cadair Idris",
+        "record_kind": "catalogue_coordinate",
+        "source_dataset": "heritage_sites.geojson",
+        "source_url": "https://www.openstreetmap.org/node/4079553118",
+        "licence": "https://opendatacommons.org/licenses/odbl/1-0/",
+        "coordinate_method": "nominatim_representative_point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.832726,
+          51.9979449
+        ]
+      },
+      "properties": {
+        "id": "mynydd_carningli",
+        "name": "Mynydd Carningli",
+        "record_kind": "catalogue_coordinate",
+        "source_dataset": "heritage_sites.geojson",
+        "source_url": "https://www.openstreetmap.org/node/5069169414",
+        "licence": "https://opendatacommons.org/licenses/odbl/1-0/",
+        "coordinate_method": "nominatim_representative_point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.4128888,
+          53.1375488
+        ]
+      },
+      "properties": {
+        "id": "llanddwyn_island",
+        "name": "Llanddwyn Island / St Dwynwen's Church",
+        "record_kind": "catalogue_coordinate",
+        "source_dataset": "heritage_sites.geojson",
+        "source_url": "https://www.openstreetmap.org/way/310107559",
+        "licence": "https://opendatacommons.org/licenses/odbl/1-0/",
+        "coordinate_method": "nominatim_representative_point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9501849,
+          54.5402925
+        ]
+      },
+      "properties": {
+        "id": "giants_ring",
+        "name": "Giant's Ring",
+        "record_kind": "catalogue_coordinate",
+        "source_dataset": "heritage_sites.geojson",
+        "source_url": "https://www.openstreetmap.org/way/1494033060",
+        "licence": "https://opendatacommons.org/licenses/odbl/1-0/",
+        "coordinate_method": "nominatim_representative_point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.6981756,
+          54.347995
+        ]
+      },
+      "properties": {
+        "id": "navan_fort",
+        "name": "Navan Fort / Emain Macha",
+        "record_kind": "catalogue_coordinate",
+        "source_dataset": "heritage_sites.geojson",
+        "source_url": "https://www.openstreetmap.org/way/128620170",
+        "licence": "https://opendatacommons.org/licenses/odbl/1-0/",
+        "coordinate_method": "nominatim_representative_point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.9382162,
+          54.701294
+        ]
+      },
+      "properties": {
+        "id": "beaghmore_stone_circles",
+        "name": "Beaghmore Stone Circles",
+        "record_kind": "catalogue_coordinate",
+        "source_dataset": "heritage_sites.geojson",
+        "source_url": "https://www.openstreetmap.org/relation/12745906",
+        "licence": "https://opendatacommons.org/licenses/odbl/1-0/",
+        "coordinate_method": "osm_bounds_centre"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.7218489,
+          54.3272125
+        ]
+      },
+      "properties": {
+        "id": "st_patricks_grave",
+        "name": "St Patrick's Grave",
+        "record_kind": "catalogue_coordinate",
+        "source_dataset": "heritage_sites.geojson",
+        "source_url": "https://www.openstreetmap.org/node/6014029585",
+        "licence": "https://opendatacommons.org/licenses/odbl/1-0/",
+        "coordinate_method": "nominatim_representative_point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.24121,
+          51.42947
+        ]
+      },
+      "properties": {
+        "id": "caesars_well_wimbledon",
+        "name": "Caesar's Well",
+        "record_kind": "catalogue_coordinate",
+        "source_dataset": "heritage_sites.geojson",
+        "source_url": "https://www.openstreetmap.org/node/1923644598",
+        "licence": "https://opendatacommons.org/licenses/odbl/1-0/",
+        "coordinate_method": "representative_point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.6121673,
+          53.5799647
+        ]
+      },
+      "properties": {
+        "id": "hill_of_tara",
+        "name": "Hill of Tara",
+        "record_kind": "catalogue_coordinate",
+        "source_dataset": "sites_ie_east.geojson",
+        "source_url": "https://www.openstreetmap.org/node/722463164",
+        "licence": "https://opendatacommons.org/licenses/odbl/1-0/",
+        "coordinate_method": "representative_point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.5193445,
+          54.2494962
+        ]
+      },
+      "properties": {
+        "id": "carrowmore",
+        "name": "Carrowmore Megalithic Cemetery",
+        "record_kind": "catalogue_coordinate",
+        "source_dataset": "sites_ie_northwest.geojson",
+        "source_url": "https://www.openstreetmap.org/relation/14865013",
+        "licence": "https://opendatacommons.org/licenses/odbl/1-0/",
+        "coordinate_method": "representative_point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.4592859,
+          54.3019778
+        ]
+      },
+      "properties": {
+        "id": "ceide_fields",
+        "name": "Céide Fields",
+        "record_kind": "catalogue_coordinate",
+        "source_dataset": "sites_ie_northwest.geojson",
+        "source_url": "https://www.openstreetmap.org/way/472361561",
+        "licence": "https://opendatacommons.org/licenses/odbl/1-0/",
+        "coordinate_method": "representative_point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.3041613,
+          53.8022878
+        ]
+      },
+      "properties": {
+        "id": "rathcroghan_mound",
+        "name": "Rathcroghan Mound",
+        "record_kind": "catalogue_coordinate",
+        "source_dataset": "sites_ie_northwest.geojson",
+        "source_url": "https://www.openstreetmap.org/way/911518923",
+        "licence": "https://opendatacommons.org/licenses/odbl/1-0/",
+        "coordinate_method": "representative_point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.7665848,
+          53.1254572
+        ]
+      },
+      "properties": {
+        "id": "dun_aonghasa",
+        "name": "Dún Aonghasa",
+        "record_kind": "catalogue_coordinate",
+        "source_dataset": "sites_ie_southwest.geojson",
+        "source_url": "https://www.openstreetmap.org/way/367009778",
+        "licence": "https://opendatacommons.org/licenses/odbl/1-0/",
+        "coordinate_method": "representative_point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.5342475,
+          52.5172682
+        ]
+      },
+      "properties": {
+        "id": "lough_gur",
+        "name": "Lough Gur Ceremonial Landscape",
+        "record_kind": "catalogue_coordinate",
+        "source_dataset": "sites_ie_southwest.geojson",
+        "source_url": "https://www.openstreetmap.org/relation/934609",
+        "licence": "https://opendatacommons.org/licenses/odbl/1-0/",
+        "coordinate_method": "representative_point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -10.540596,
+          51.7712752
+        ]
+      },
+      "properties": {
+        "id": "skellig_michael",
+        "name": "Sceilg Mhichíl",
+        "record_kind": "catalogue_coordinate",
+        "source_dataset": "sites_ie_southwest.geojson",
+        "source_url": "https://www.openstreetmap.org/way/4564325",
+        "licence": "https://opendatacommons.org/licenses/odbl/1-0/",
+        "coordinate_method": "representative_point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.6876258,
+          53.1043803
+        ]
+      },
+      "properties": {
+        "id": "dun_duchathair",
+        "name": "Dún Dúchathair (Black Fort)",
+        "record_kind": "catalogue_coordinate",
+        "source_dataset": "sites_ie_southwest.geojson",
+        "source_url": "https://www.openstreetmap.org/way/702558287",
+        "licence": "https://opendatacommons.org/licenses/odbl/1-0/",
+        "coordinate_method": "representative_point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.6954734,
+          51.8115533
+        ]
+      },
+      "properties": {
+        "id": "uragh_stone_circle",
+        "name": "Uragh Stone Circle",
+        "record_kind": "catalogue_coordinate",
+        "source_dataset": "sites_ie_southwest.geojson",
+        "source_url": "https://www.openstreetmap.org/way/250584113",
+        "licence": "https://opendatacommons.org/licenses/odbl/1-0/",
+        "coordinate_method": "representative_point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.588975,
+          37.2912549
+        ]
+      },
+      "properties": {
+        "id": "it_sicily_agrigento_valley_of_the_temples",
+        "name": "Valley of the Temples",
+        "record_kind": "catalogue_coordinate",
+        "source_dataset": "sites_it_sicily.geojson",
+        "source_url": "https://www.openstreetmap.org/way/39096127",
+        "licence": "https://opendatacommons.org/licenses/odbl/1-0/",
+        "coordinate_method": "representative_point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5287306,
+          37.6202155
+        ]
+      },
+      "properties": {
+        "id": "it_sicily_agrigento_eremo_di_santa_rosalia_alla_quisquina",
+        "name": "Eremo di Santa Rosalia alla Quisquina",
+        "record_kind": "catalogue_coordinate",
+        "source_dataset": "sites_it_sicily.geojson",
+        "source_url": "https://www.openstreetmap.org/way/215287577",
+        "licence": "https://opendatacommons.org/licenses/odbl/1-0/",
+        "coordinate_method": "representative_point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0841077,
+          37.5064561
+        ]
+      },
+      "properties": {
+        "id": "it_sicily_agrigento_b_v_del_soccorso",
+        "name": "B.V. del Soccorso",
+        "record_kind": "catalogue_coordinate",
+        "source_dataset": "sites_it_sicily.geojson",
+        "source_url": "https://www.openstreetmap.org/way/248645089",
+        "licence": "https://opendatacommons.org/licenses/odbl/1-0/",
+        "coordinate_method": "representative_point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7986037,
+          37.2898334
+        ]
+      },
+      "properties": {
+        "id": "it_sicily_agrigento_san_calogero_naro",
+        "name": "San Calogero, Naro",
+        "record_kind": "catalogue_coordinate",
+        "source_dataset": "sites_it_sicily.geojson",
+        "source_url": "https://www.openstreetmap.org/way/916729906",
+        "licence": "https://opendatacommons.org/licenses/odbl/1-0/",
+        "coordinate_method": "representative_point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2424606,
+          37.5096341
+        ]
+      },
+      "properties": {
+        "id": "it_sicily_agrigento_poggio_diana",
+        "name": "Poggio Diana",
+        "record_kind": "catalogue_coordinate",
+        "source_dataset": "sites_it_sicily.geojson",
+        "source_url": "https://www.openstreetmap.org/way/247676387",
+        "licence": "https://opendatacommons.org/licenses/odbl/1-0/",
+        "coordinate_method": "representative_point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.9106542,
+          37.6461299
+        ]
+      },
+      "properties": {
+        "id": "it_sicily_caltanissetta_crocifisso_di_belici",
+        "name": "Crocifisso di Belici",
+        "record_kind": "catalogue_coordinate",
+        "source_dataset": "sites_it_sicily.geojson",
+        "source_url": "https://www.openstreetmap.org/node/6024318751",
+        "licence": "https://opendatacommons.org/licenses/odbl/1-0/",
+        "coordinate_method": "representative_point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.06046,
+          37.28051
+        ]
+      },
+      "properties": {
+        "id": "it_sicily_caltanissetta_costa_di_mandorle_necropolis",
+        "name": "Costa di Mandorle Necropolis",
+        "record_kind": "catalogue_coordinate",
+        "source_dataset": "sites_it_sicily.geojson",
+        "source_url": "https://www.openstreetmap.org/node/12919379037",
+        "licence": "https://opendatacommons.org/licenses/odbl/1-0/",
+        "coordinate_method": "representative_point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.0572363,
+          37.5001841
+        ]
+      },
+      "properties": {
+        "id": "it_sicily_caltanissetta_gesu_redentore",
+        "name": "Gesù Redentore",
+        "record_kind": "catalogue_coordinate",
+        "source_dataset": "sites_it_sicily.geojson",
+        "source_url": "https://www.openstreetmap.org/node/2003119598",
+        "licence": "https://opendatacommons.org/licenses/odbl/1-0/",
+        "coordinate_method": "osm_element_point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.2237317,
+          37.0712393
+        ]
+      },
+      "properties": {
+        "id": "it_sicily_caltanissetta_mura_timoleontee",
+        "name": "Mura Timoleontee",
+        "record_kind": "catalogue_coordinate",
+        "source_dataset": "sites_it_sicily.geojson",
+        "source_url": "https://www.openstreetmap.org/relation/2449945",
+        "licence": "https://opendatacommons.org/licenses/odbl/1-0/",
+        "coordinate_method": "representative_point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.9934,
+          37.751
+        ]
+      },
+      "properties": {
+        "id": "it_sicily_catania_mount_etna",
+        "name": "Mount Etna",
+        "record_kind": "catalogue_coordinate",
+        "source_dataset": "sites_it_sicily.geojson",
+        "source_url": "https://www.openstreetmap.org/node/26863843",
+        "licence": "https://opendatacommons.org/licenses/odbl/1-0/",
+        "coordinate_method": "representative_point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.0210447,
+          37.6
+        ]
+      },
+      "properties": {
+        "id": "it_sicily_catania_madonna_della_sciara_mompileri",
+        "name": "Madonna della Sciara, Mompileri",
+        "record_kind": "catalogue_coordinate",
+        "source_dataset": "sites_it_sicily.geojson",
+        "source_url": "https://www.openstreetmap.org/way/160332796",
+        "licence": "https://opendatacommons.org/licenses/odbl/1-0/",
+        "coordinate_method": "osm_bounds_centre"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.0882384,
+          37.5025178
+        ]
+      },
+      "properties": {
+        "id": "it_sicily_catania_catania_cathedral_santagata",
+        "name": "Catania Cathedral / Sant’Agata",
+        "record_kind": "catalogue_coordinate",
+        "source_dataset": "sites_it_sicily.geojson",
+        "source_url": "https://www.openstreetmap.org/way/58102740",
+        "licence": "https://opendatacommons.org/licenses/odbl/1-0/",
+        "coordinate_method": "representative_point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.5152435,
+          37.2377719
+        ]
+      },
+      "properties": {
+        "id": "it_sicily_catania_madonna_del_ponte",
+        "name": "Madonna del Ponte",
+        "record_kind": "catalogue_coordinate",
+        "source_dataset": "sites_it_sicily.geojson",
+        "source_url": "https://www.openstreetmap.org/way/1127376948",
+        "licence": "https://opendatacommons.org/licenses/odbl/1-0/",
+        "coordinate_method": "osm_bounds_centre"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.1257183,
+          37.5792811
+        ]
+      },
+      "properties": {
+        "id": "it_sicily_catania_maria_ss_di_valverde",
+        "name": "Maria SS di Valverde",
+        "record_kind": "catalogue_coordinate",
+        "source_dataset": "sites_it_sicily.geojson",
+        "source_url": "https://www.openstreetmap.org/way/124722275",
+        "licence": "https://opendatacommons.org/licenses/odbl/1-0/",
+        "coordinate_method": "osm_bounds_centre"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.0797463,
+          37.6222215
+        ]
+      },
+      "properties": {
+        "id": "it_sicily_catania_santi_alfio_filadelfo_e_cirino",
+        "name": "Santi Alfio, Filadelfo e Cirino",
+        "record_kind": "catalogue_coordinate",
+        "source_dataset": "sites_it_sicily.geojson",
+        "source_url": "https://www.openstreetmap.org/way/103879497",
+        "licence": "https://opendatacommons.org/licenses/odbl/1-0/",
+        "coordinate_method": "representative_point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.132233,
+          37.5879724
+        ]
+      },
+      "properties": {
+        "id": "it_sicily_catania_eremo_di_santanna",
+        "name": "Eremo di Sant’Anna",
+        "record_kind": "catalogue_coordinate",
+        "source_dataset": "sites_it_sicily.geojson",
+        "source_url": "https://www.openstreetmap.org/way/1539410422",
+        "licence": "https://opendatacommons.org/licenses/odbl/1-0/",
+        "coordinate_method": "representative_point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.0793898,
+          37.5042725
+        ]
+      },
+      "properties": {
+        "id": "it_sicily_catania_san_nicolo_larena_monastery",
+        "name": "San Nicolò l’Arena Monastery",
+        "record_kind": "catalogue_coordinate",
+        "source_dataset": "sites_it_sicily.geojson",
+        "source_url": "https://www.openstreetmap.org/way/28007667",
+        "licence": "https://opendatacommons.org/licenses/odbl/1-0/",
+        "coordinate_method": "representative_point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.7936287,
+          37.2748723
+        ]
+      },
+      "properties": {
+        "id": "it_sicily_catania_abbazia_di_san_benedetto",
+        "name": "Abbazia di San Benedetto",
+        "record_kind": "catalogue_coordinate",
+        "source_dataset": "sites_it_sicily.geojson",
+        "source_url": "https://www.openstreetmap.org/way/318154739",
+        "licence": "https://opendatacommons.org/licenses/odbl/1-0/",
+        "coordinate_method": "representative_point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.7930934,
+          37.2717289
+        ]
+      },
+      "properties": {
+        "id": "it_sicily_catania_santuario_madonna_della_stella",
+        "name": "Santuario Madonna della Stella",
+        "record_kind": "catalogue_coordinate",
+        "source_dataset": "sites_it_sicily.geojson",
+        "source_url": "https://www.openstreetmap.org/way/228569432",
+        "licence": "https://opendatacommons.org/licenses/odbl/1-0/",
+        "coordinate_method": "osm_bounds_centre"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.797432,
+          37.2710527
+        ]
+      },
+      "properties": {
+        "id": "it_sicily_catania_santa_maria_la_vetere",
+        "name": "Santa Maria la Vetere",
+        "record_kind": "catalogue_coordinate",
+        "source_dataset": "sites_it_sicily.geojson",
+        "source_url": "https://www.openstreetmap.org/way/228729651",
+        "licence": "https://opendatacommons.org/licenses/odbl/1-0/",
+        "coordinate_method": "representative_point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.0826065,
+          37.5038802
+        ]
+      },
+      "properties": {
+        "id": "it_sicily_catania_terme_della_rotonda",
+        "name": "Terme della Rotonda",
+        "record_kind": "catalogue_coordinate",
+        "source_dataset": "sites_it_sicily.geojson",
+        "source_url": "https://www.openstreetmap.org/node/12706028376",
+        "licence": "https://opendatacommons.org/licenses/odbl/1-0/",
+        "coordinate_method": "representative_point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.2696345,
+          37.5632339
+        ]
+      },
+      "properties": {
+        "id": "it_sicily_enna_ss_crocifisso_di_papardura",
+        "name": "SS Crocifisso di Papardura",
+        "record_kind": "catalogue_coordinate",
+        "source_dataset": "sites_it_sicily.geojson",
+        "source_url": "https://www.openstreetmap.org/way/207984277",
+        "licence": "https://opendatacommons.org/licenses/odbl/1-0/",
+        "coordinate_method": "osm_bounds_centre"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.5187959,
+          37.6571163
+        ]
+      },
+      "properties": {
+        "id": "it_sicily_enna_san_filippo_dagira",
+        "name": "San Filippo d’Agira",
+        "record_kind": "catalogue_coordinate",
+        "source_dataset": "sites_it_sicily.geojson",
+        "source_url": "https://www.openstreetmap.org/way/928894421",
+        "licence": "https://opendatacommons.org/licenses/odbl/1-0/",
+        "coordinate_method": "osm_bounds_centre"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4453563,
+          37.4164651
+        ]
+      },
+      "properties": {
+        "id": "it_sicily_enna_san_filippo_apostolo",
+        "name": "San Filippo Apostolo",
+        "record_kind": "catalogue_coordinate",
+        "source_dataset": "sites_it_sicily.geojson",
+        "source_url": "https://www.openstreetmap.org/way/1137585854",
+        "licence": "https://opendatacommons.org/licenses/odbl/1-0/",
+        "coordinate_method": "representative_point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.2385812,
+          37.6102026
+        ]
+      },
+      "properties": {
+        "id": "it_sicily_enna_canalotto_rock_village",
+        "name": "Canalotto Rock Village",
+        "record_kind": "catalogue_coordinate",
+        "source_dataset": "sites_it_sicily.geojson",
+        "source_url": "https://www.openstreetmap.org/node/12525996887",
+        "licence": "https://opendatacommons.org/licenses/odbl/1-0/",
+        "coordinate_method": "representative_point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4241498,
+          37.628343
+        ]
+      },
+      "properties": {
+        "id": "it_sicily_enna_basilica_di_san_leone",
+        "name": "Basilica di San Leone",
+        "record_kind": "catalogue_coordinate",
+        "source_dataset": "sites_it_sicily.geojson",
+        "source_url": "https://www.openstreetmap.org/way/559014729",
+        "licence": "https://opendatacommons.org/licenses/odbl/1-0/",
+        "coordinate_method": "representative_point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.6012406,
+          37.7834657
+        ]
+      },
+      "properties": {
+        "id": "it_sicily_enna_chiesa_di_san_silvestro",
+        "name": "Chiesa di San Silvestro",
+        "record_kind": "catalogue_coordinate",
+        "source_dataset": "sites_it_sicily.geojson",
+        "source_url": "https://www.openstreetmap.org/way/1117848961",
+        "licence": "https://opendatacommons.org/licenses/odbl/1-0/",
+        "coordinate_method": "representative_point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.21308,
+          38.78915
+        ]
+      },
+      "properties": {
+        "id": "it_sicily_messina_stromboli",
+        "name": "Stromboli",
+        "record_kind": "catalogue_coordinate",
+        "source_dataset": "sites_it_sicily.geojson",
+        "source_url": "https://www.openstreetmap.org/node/26863238",
+        "licence": "https://opendatacommons.org/licenses/odbl/1-0/",
+        "coordinate_method": "representative_point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.0464254,
+          38.1413827
+        ]
+      },
+      "properties": {
+        "id": "it_sicily_messina_tindari_sanctuary",
+        "name": "Tindari Sanctuary",
+        "record_kind": "catalogue_coordinate",
+        "source_dataset": "sites_it_sicily.geojson",
+        "source_url": "https://www.openstreetmap.org/way/79706488",
+        "licence": "https://opendatacommons.org/licenses/odbl/1-0/",
+        "coordinate_method": "representative_point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.961956,
+          38.4020236
+        ]
+      },
+      "properties": {
+        "id": "it_sicily_messina_gran_cratere_della_fossa",
+        "name": "Gran Cratere della Fossa",
+        "record_kind": "catalogue_coordinate",
+        "source_dataset": "sites_it_sicily.geojson",
+        "source_url": "https://www.openstreetmap.org/node/477213804",
+        "licence": "https://opendatacommons.org/licenses/odbl/1-0/",
+        "coordinate_method": "representative_point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.9099115,
+          38.4779219
+        ]
+      },
+      "properties": {
+        "id": "it_sicily_messina_terme_di_san_calogero_lipari",
+        "name": "Terme di San Calogero, Lipari",
+        "record_kind": "catalogue_coordinate",
+        "source_dataset": "sites_it_sicily.geojson",
+        "source_url": "https://www.openstreetmap.org/way/61292523",
+        "licence": "https://opendatacommons.org/licenses/odbl/1-0/",
+        "coordinate_method": "representative_point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.5883494,
+          38.5569094
+        ]
+      },
+      "properties": {
+        "id": "it_sicily_messina_capo_graziano",
+        "name": "Capo Graziano",
+        "record_kind": "catalogue_coordinate",
+        "source_dataset": "sites_it_sicily.geojson",
+        "source_url": "https://www.openstreetmap.org/way/219564801",
+        "licence": "https://opendatacommons.org/licenses/odbl/1-0/",
+        "coordinate_method": "representative_point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.0635646,
+          38.6256657
+        ]
+      },
+      "properties": {
+        "id": "it_sicily_messina_punta_milazzese",
+        "name": "Punta Milazzese",
+        "record_kind": "catalogue_coordinate",
+        "source_dataset": "sites_it_sicily.geojson",
+        "source_url": "https://www.openstreetmap.org/node/5316048621",
+        "licence": "https://opendatacommons.org/licenses/odbl/1-0/",
+        "coordinate_method": "representative_point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.7209229,
+          38.0048028
+        ]
+      },
+      "properties": {
+        "id": "it_sicily_messina_eremo_di_san_nicolo_politi",
+        "name": "Eremo di San Nicolò Politi",
+        "record_kind": "catalogue_coordinate",
+        "source_dataset": "sites_it_sicily.geojson",
+        "source_url": "https://www.openstreetmap.org/way/393057117",
+        "licence": "https://opendatacommons.org/licenses/odbl/1-0/",
+        "coordinate_method": "representative_point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.8690679,
+          38.5737094
+        ]
+      },
+      "properties": {
+        "id": "it_sicily_messina_portella_salina",
+        "name": "Portella, Salina",
+        "record_kind": "catalogue_coordinate",
+        "source_dataset": "sites_it_sicily.geojson",
+        "source_url": "https://www.openstreetmap.org/way/1442185869",
+        "licence": "https://opendatacommons.org/licenses/odbl/1-0/",
+        "coordinate_method": "representative_point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.5806828,
+          38.55719
+        ]
+      },
+      "properties": {
+        "id": "it_sicily_messina_filo_braccio",
+        "name": "Filo Braccio",
+        "record_kind": "catalogue_coordinate",
+        "source_dataset": "sites_it_sicily.geojson",
+        "source_url": "https://www.openstreetmap.org/way/422259830",
+        "licence": "https://opendatacommons.org/licenses/odbl/1-0/",
+        "coordinate_method": "representative_point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.30853,
+          37.9470723
+        ]
+      },
+      "properties": {
+        "id": "it_sicily_messina_monastero_e_chiesa_basiliana_dagro",
+        "name": "Monastero e Chiesa Basiliana d’Agrò",
+        "record_kind": "catalogue_coordinate",
+        "source_dataset": "sites_it_sicily.geojson",
+        "source_url": "https://www.openstreetmap.org/way/211277744",
+        "licence": "https://opendatacommons.org/licenses/odbl/1-0/",
+        "coordinate_method": "osm_bounds_centre"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.5532025,
+          38.1959307
+        ]
+      },
+      "properties": {
+        "id": "it_sicily_messina_montevergine_santa_eustochia",
+        "name": "Montevergine / Santa Eustochia",
+        "record_kind": "catalogue_coordinate",
+        "source_dataset": "sites_it_sicily.geojson",
+        "source_url": "https://www.openstreetmap.org/way/164424293",
+        "licence": "https://opendatacommons.org/licenses/odbl/1-0/",
+        "coordinate_method": "osm_bounds_centre"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.550866,
+          38.1935692
+        ]
+      },
+      "properties": {
+        "id": "it_sicily_messina_madonna_di_montalto",
+        "name": "Madonna di Montalto",
+        "record_kind": "catalogue_coordinate",
+        "source_dataset": "sites_it_sicily.geojson",
+        "source_url": "https://www.openstreetmap.org/way/164424294",
+        "licence": "https://opendatacommons.org/licenses/odbl/1-0/",
+        "coordinate_method": "osm_bounds_centre"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.7488625,
+          38.1642763
+        ]
+      },
+      "properties": {
+        "id": "it_sicily_messina_capo_dorlando_sanctuary",
+        "name": "Capo d’Orlando Sanctuary",
+        "record_kind": "catalogue_coordinate",
+        "source_dataset": "sites_it_sicily.geojson",
+        "source_url": "https://www.openstreetmap.org/way/253627450",
+        "licence": "https://opendatacommons.org/licenses/odbl/1-0/",
+        "coordinate_method": "representative_point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.2879831,
+          37.8538721
+        ]
+      },
+      "properties": {
+        "id": "it_sicily_messina_taormina_temple_odeon",
+        "name": "Taormina Temple / Odeon",
+        "record_kind": "catalogue_coordinate",
+        "source_dataset": "sites_it_sicily.geojson",
+        "source_url": "https://www.openstreetmap.org/way/345139895",
+        "licence": "https://opendatacommons.org/licenses/odbl/1-0/",
+        "coordinate_method": "representative_point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.2845547,
+          37.8544804
+        ]
+      },
+      "properties": {
+        "id": "it_sicily_messina_castel_tauro_greek_acropolis",
+        "name": "Castel Tauro / Greek Acropolis",
+        "record_kind": "catalogue_coordinate",
+        "source_dataset": "sites_it_sicily.geojson",
+        "source_url": "https://www.openstreetmap.org/way/473229104",
+        "licence": "https://opendatacommons.org/licenses/odbl/1-0/",
+        "coordinate_method": "osm_bounds_centre"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.0102244,
+          38.0250732
+        ]
+      },
+      "properties": {
+        "id": "it_sicily_messina_basilica_minore_di_montalbano_elicona",
+        "name": "Basilica Minore di Montalbano Elicona",
+        "record_kind": "catalogue_coordinate",
+        "source_dataset": "sites_it_sicily.geojson",
+        "source_url": "https://www.openstreetmap.org/way/225048998",
+        "licence": "https://opendatacommons.org/licenses/odbl/1-0/",
+        "coordinate_method": "osm_bounds_centre"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.0141151,
+          38.0232754
+        ]
+      },
+      "properties": {
+        "id": "it_sicily_messina_madonna_della_provvidenza",
+        "name": "Madonna della Provvidenza",
+        "record_kind": "catalogue_coordinate",
+        "source_dataset": "sites_it_sicily.geojson",
+        "source_url": "https://www.openstreetmap.org/way/220135627",
+        "licence": "https://opendatacommons.org/licenses/odbl/1-0/",
+        "coordinate_method": "representative_point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.0381778,
+          37.9868203
+        ]
+      },
+      "properties": {
+        "id": "it_sicily_messina_argimusco",
+        "name": "Argimusco",
+        "record_kind": "catalogue_coordinate",
+        "source_dataset": "sites_it_sicily.geojson",
+        "source_url": "https://www.openstreetmap.org/node/716578703",
+        "licence": "https://opendatacommons.org/licenses/odbl/1-0/",
+        "coordinate_method": "representative_point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.6959373,
+          38.0759781
+        ]
+      },
+      "properties": {
+        "id": "it_sicily_messina_san_marco_evangelista_temple_of_hercules",
+        "name": "San Marco Evangelista / Temple of Hercules",
+        "record_kind": "catalogue_coordinate",
+        "source_dataset": "sites_it_sicily.geojson",
+        "source_url": "https://www.openstreetmap.org/way/1080943327",
+        "licence": "https://opendatacommons.org/licenses/odbl/1-0/",
+        "coordinate_method": "osm_bounds_centre"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.698325,
+          38.0752899
+        ]
+      },
+      "properties": {
+        "id": "it_sicily_messina_san_teodoro_badia_piccola",
+        "name": "San Teodoro / Badia Piccola",
+        "record_kind": "catalogue_coordinate",
+        "source_dataset": "sites_it_sicily.geojson",
+        "source_url": "https://www.openstreetmap.org/way/404055014",
+        "licence": "https://opendatacommons.org/licenses/odbl/1-0/",
+        "coordinate_method": "representative_point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3538035,
+          38.1661097
+        ]
+      },
+      "properties": {
+        "id": "it_sicily_palermo_monte_pellegrino_santa_rosalia",
+        "name": "Monte Pellegrino & Santa Rosalia",
+        "record_kind": "catalogue_coordinate",
+        "source_dataset": "sites_it_sicily.geojson",
+        "source_url": "https://www.openstreetmap.org/node/493236385",
+        "licence": "https://opendatacommons.org/licenses/odbl/1-0/",
+        "coordinate_method": "representative_point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2922777,
+          38.0820313
+        ]
+      },
+      "properties": {
+        "id": "it_sicily_palermo_monreale_cathedral",
+        "name": "Monreale Cathedral",
+        "record_kind": "catalogue_coordinate",
+        "source_dataset": "sites_it_sicily.geojson",
+        "source_url": "https://www.openstreetmap.org/way/82665029",
+        "licence": "https://opendatacommons.org/licenses/odbl/1-0/",
+        "coordinate_method": "representative_point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.0186677,
+          37.9865481
+        ]
+      },
+      "properties": {
+        "id": "it_sicily_palermo_gibilmanna_sanctuary",
+        "name": "Gibilmanna Sanctuary",
+        "record_kind": "catalogue_coordinate",
+        "source_dataset": "sites_it_sicily.geojson",
+        "source_url": "https://www.openstreetmap.org/way/28875433",
+        "licence": "https://opendatacommons.org/licenses/odbl/1-0/",
+        "coordinate_method": "representative_point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.0235915,
+          38.0398081
+        ]
+      },
+      "properties": {
+        "id": "it_sicily_palermo_cefalu_cathedral",
+        "name": "Cefalù Cathedral",
+        "record_kind": "catalogue_coordinate",
+        "source_dataset": "sites_it_sicily.geojson",
+        "source_url": "https://www.openstreetmap.org/way/425988640",
+        "licence": "https://opendatacommons.org/licenses/odbl/1-0/",
+        "coordinate_method": "representative_point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7540838,
+          37.7487931
+        ]
+      },
+      "properties": {
+        "id": "it_sicily_palermo_gurfa_caves",
+        "name": "Gurfa Caves",
+        "record_kind": "catalogue_coordinate",
+        "source_dataset": "sites_it_sicily.geojson",
+        "source_url": "https://www.openstreetmap.org/way/82949813",
+        "licence": "https://opendatacommons.org/licenses/odbl/1-0/",
+        "coordinate_method": "representative_point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1821608,
+          38.7191075
+        ]
+      },
+      "properties": {
+        "id": "it_sicily_palermo_villaggio_dei_faraglioni",
+        "name": "Villaggio dei Faraglioni",
+        "record_kind": "catalogue_coordinate",
+        "source_dataset": "sites_it_sicily.geojson",
+        "source_url": "https://www.openstreetmap.org/way/245277818",
+        "licence": "https://opendatacommons.org/licenses/odbl/1-0/",
+        "coordinate_method": "osm_bounds_centre"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5317471,
+          38.0931245
+        ]
+      },
+      "properties": {
+        "id": "it_sicily_palermo_solunto",
+        "name": "Solunto",
+        "record_kind": "catalogue_coordinate",
+        "source_dataset": "sites_it_sicily.geojson",
+        "source_url": "https://www.openstreetmap.org/way/53454891",
+        "licence": "https://opendatacommons.org/licenses/odbl/1-0/",
+        "coordinate_method": "representative_point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.065045,
+          37.744728
+        ]
+      },
+      "properties": {
+        "id": "it_sicily_palermo_madonna_dellolio",
+        "name": "Madonna dell’Olio",
+        "record_kind": "catalogue_coordinate",
+        "source_dataset": "sites_it_sicily.geojson",
+        "source_url": "https://www.openstreetmap.org/way/237452990",
+        "licence": "https://opendatacommons.org/licenses/odbl/1-0/",
+        "coordinate_method": "representative_point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3560128,
+          38.1143482
+        ]
+      },
+      "properties": {
+        "id": "it_sicily_palermo_palermo_cathedral",
+        "name": "Palermo Cathedral",
+        "record_kind": "catalogue_coordinate",
+        "source_dataset": "sites_it_sicily.geojson",
+        "source_url": "https://www.openstreetmap.org/way/49750033",
+        "licence": "https://opendatacommons.org/licenses/odbl/1-0/",
+        "coordinate_method": "representative_point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3545956,
+          38.1095602
+        ]
+      },
+      "properties": {
+        "id": "it_sicily_palermo_san_giovanni_degli_eremiti",
+        "name": "San Giovanni degli Eremiti",
+        "record_kind": "catalogue_coordinate",
+        "source_dataset": "sites_it_sicily.geojson",
+        "source_url": "https://www.openstreetmap.org/way/49786077",
+        "licence": "https://opendatacommons.org/licenses/odbl/1-0/",
+        "coordinate_method": "representative_point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.2057431,
+          37.7905262
+        ]
+      },
+      "properties": {
+        "id": "it_sicily_palermo_santuario_dello_spirito_santo",
+        "name": "Santuario dello Spirito Santo",
+        "record_kind": "catalogue_coordinate",
+        "source_dataset": "sites_it_sicily.geojson",
+        "source_url": "https://www.openstreetmap.org/way/190468853",
+        "licence": "https://opendatacommons.org/licenses/odbl/1-0/",
+        "coordinate_method": "osm_bounds_centre"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.0503342,
+          37.8319642
+        ]
+      },
+      "properties": {
+        "id": "it_sicily_palermo_madonna_dellalto",
+        "name": "Madonna dell’Alto",
+        "record_kind": "catalogue_coordinate",
+        "source_dataset": "sites_it_sicily.geojson",
+        "source_url": "https://www.openstreetmap.org/node/4306138362",
+        "licence": "https://opendatacommons.org/licenses/odbl/1-0/",
+        "coordinate_method": "representative_point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.0234184,
+          37.8747917
+        ]
+      },
+      "properties": {
+        "id": "it_sicily_palermo_madonna_delle_nevi_piano_battaglia",
+        "name": "Madonna delle Nevi, Piano Battaglia",
+        "record_kind": "catalogue_coordinate",
+        "source_dataset": "sites_it_sicily.geojson",
+        "source_url": "https://www.openstreetmap.org/way/283409222",
+        "licence": "https://opendatacommons.org/licenses/odbl/1-0/",
+        "coordinate_method": "osm_bounds_centre"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.0928694,
+          37.806558
+        ]
+      },
+      "properties": {
+        "id": "it_sicily_palermo_santa_maria_alla_fontana",
+        "name": "Santa Maria alla Fontana",
+        "record_kind": "catalogue_coordinate",
+        "source_dataset": "sites_it_sicily.geojson",
+        "source_url": "https://www.openstreetmap.org/way/1079221336",
+        "licence": "https://opendatacommons.org/licenses/odbl/1-0/",
+        "coordinate_method": "representative_point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.1096651,
+          37.7949894
+        ]
+      },
+      "properties": {
+        "id": "it_sicily_palermo_santa_maria_di_loreto",
+        "name": "Santa Maria di Loreto",
+        "record_kind": "catalogue_coordinate",
+        "source_dataset": "sites_it_sicily.geojson",
+        "source_url": "https://www.openstreetmap.org/way/1078304987",
+        "licence": "https://opendatacommons.org/licenses/odbl/1-0/",
+        "coordinate_method": "representative_point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.1095358,
+          37.8017432
+        ]
+      },
+      "properties": {
+        "id": "it_sicily_palermo_convento_dei_frati_minori_riformati",
+        "name": "Convento dei Frati Minori Riformati",
+        "record_kind": "catalogue_coordinate",
+        "source_dataset": "sites_it_sicily.geojson",
+        "source_url": "https://www.openstreetmap.org/way/1078278099",
+        "licence": "https://opendatacommons.org/licenses/odbl/1-0/",
+        "coordinate_method": "representative_point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.8396649,
+          36.8502093
+        ]
+      },
+      "properties": {
+        "id": "it_sicily_ragusa_cava_dispica",
+        "name": "Cava d’Ispica",
+        "record_kind": "catalogue_coordinate",
+        "source_dataset": "sites_it_sicily.geojson",
+        "source_url": "https://www.openstreetmap.org/way/226099701",
+        "licence": "https://opendatacommons.org/licenses/odbl/1-0/",
+        "coordinate_method": "osm_bounds_centre"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.7073691,
+          37.1103614
+        ]
+      },
+      "properties": {
+        "id": "it_sicily_ragusa_monte_casasia",
+        "name": "Monte Casasia",
+        "record_kind": "catalogue_coordinate",
+        "source_dataset": "sites_it_sicily.geojson",
+        "source_url": "https://www.openstreetmap.org/node/2069656664",
+        "licence": "https://opendatacommons.org/licenses/odbl/1-0/",
+        "coordinate_method": "representative_point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.7607183,
+          36.8600695
+        ]
+      },
+      "properties": {
+        "id": "it_sicily_ragusa_eremo_di_san_nicolo_inferiore",
+        "name": "Eremo di San Nicolò Inferiore",
+        "record_kind": "catalogue_coordinate",
+        "source_dataset": "sites_it_sicily.geojson",
+        "source_url": "https://www.openstreetmap.org/way/480668720",
+        "licence": "https://opendatacommons.org/licenses/odbl/1-0/",
+        "coordinate_method": "representative_point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.7044191,
+          36.7906843
+        ]
+      },
+      "properties": {
+        "id": "it_sicily_ragusa_madonna_delle_milizie",
+        "name": "Madonna delle Milizie",
+        "record_kind": "catalogue_coordinate",
+        "source_dataset": "sites_it_sicily.geojson",
+        "source_url": "https://www.openstreetmap.org/node/6567440756",
+        "licence": "https://opendatacommons.org/licenses/odbl/1-0/",
+        "coordinate_method": "representative_point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4654709,
+          36.8686061
+        ]
+      },
+      "properties": {
+        "id": "it_sicily_ragusa_rifriscolaro_necropolis",
+        "name": "Rifriscolaro Necropolis",
+        "record_kind": "catalogue_coordinate",
+        "source_dataset": "sites_it_sicily.geojson",
+        "source_url": "https://www.openstreetmap.org/way/1408567109",
+        "licence": "https://opendatacommons.org/licenses/odbl/1-0/",
+        "coordinate_method": "representative_point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.7079438,
+          36.789628
+        ]
+      },
+      "properties": {
+        "id": "it_sicily_ragusa_convento_della_croce",
+        "name": "Convento della Croce",
+        "record_kind": "catalogue_coordinate",
+        "source_dataset": "sites_it_sicily.geojson",
+        "source_url": "https://www.openstreetmap.org/way/243195122",
+        "licence": "https://opendatacommons.org/licenses/odbl/1-0/",
+        "coordinate_method": "representative_point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.710924,
+          36.794066
+        ]
+      },
+      "properties": {
+        "id": "it_sicily_ragusa_maria_ss_della_pieta",
+        "name": "Maria SS della Pietà",
+        "record_kind": "catalogue_coordinate",
+        "source_dataset": "sites_it_sicily.geojson",
+        "source_url": "https://www.openstreetmap.org/way/479615527",
+        "licence": "https://opendatacommons.org/licenses/odbl/1-0/",
+        "coordinate_method": "representative_point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.6901211,
+          37.0393953
+        ]
+      },
+      "properties": {
+        "id": "it_sicily_ragusa_maria_ss_di_gulfi",
+        "name": "Maria SS di Gulfi",
+        "record_kind": "catalogue_coordinate",
+        "source_dataset": "sites_it_sicily.geojson",
+        "source_url": "https://www.openstreetmap.org/way/206505386",
+        "licence": "https://opendatacommons.org/licenses/odbl/1-0/",
+        "coordinate_method": "representative_point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.0228772,
+          37.136337
+        ]
+      },
+      "properties": {
+        "id": "it_sicily_siracusa_pantalica_necropolis",
+        "name": "Pantalica Necropolis",
+        "record_kind": "catalogue_coordinate",
+        "source_dataset": "sites_it_sicily.geojson",
+        "source_url": "https://www.openstreetmap.org/way/318200847",
+        "licence": "https://opendatacommons.org/licenses/odbl/1-0/",
+        "coordinate_method": "representative_point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.293823,
+          37.0595851
+        ]
+      },
+      "properties": {
+        "id": "it_sicily_siracusa_syracuse_cathedral_temple_of_athena",
+        "name": "Syracuse Cathedral / Temple of Athena",
+        "record_kind": "catalogue_coordinate",
+        "source_dataset": "sites_it_sicily.geojson",
+        "source_url": "https://www.openstreetmap.org/way/44683104",
+        "licence": "https://opendatacommons.org/licenses/odbl/1-0/",
+        "coordinate_method": "representative_point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.2794567,
+          37.0787017
+        ]
+      },
+      "properties": {
+        "id": "it_sicily_siracusa_neapolis_ara_di_ierone",
+        "name": "Neapolis / Ara di Ierone",
+        "record_kind": "catalogue_coordinate",
+        "source_dataset": "sites_it_sicily.geojson",
+        "source_url": "https://www.openstreetmap.org/relation/6564135",
+        "licence": "https://opendatacommons.org/licenses/odbl/1-0/",
+        "coordinate_method": "representative_point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.2929132,
+          37.0572691
+        ]
+      },
+      "properties": {
+        "id": "it_sicily_siracusa_fonte_aretusa",
+        "name": "Fonte Aretusa",
+        "record_kind": "catalogue_coordinate",
+        "source_dataset": "sites_it_sicily.geojson",
+        "source_url": "https://www.openstreetmap.org/way/27286241",
+        "licence": "https://opendatacommons.org/licenses/odbl/1-0/",
+        "coordinate_method": "representative_point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.2930187,
+          37.0640302
+        ]
+      },
+      "properties": {
+        "id": "it_sicily_siracusa_temple_of_apollo_syracuse",
+        "name": "Temple of Apollo, Syracuse",
+        "record_kind": "catalogue_coordinate",
+        "source_dataset": "sites_it_sicily.geojson",
+        "source_url": "https://www.openstreetmap.org/way/1163414978",
+        "licence": "https://opendatacommons.org/licenses/odbl/1-0/",
+        "coordinate_method": "representative_point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.2848558,
+          37.0767995
+        ]
+      },
+      "properties": {
+        "id": "it_sicily_siracusa_catacombs_of_san_giovanni",
+        "name": "Catacombs of San Giovanni",
+        "record_kind": "catalogue_coordinate",
+        "source_dataset": "sites_it_sicily.geojson",
+        "source_url": "https://www.openstreetmap.org/node/290930171",
+        "licence": "https://opendatacommons.org/licenses/odbl/1-0/",
+        "coordinate_method": "representative_point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.1760565,
+          37.2897653
+        ]
+      },
+      "properties": {
+        "id": "it_sicily_siracusa_santa_maria_adonai",
+        "name": "Santa Maria Adonai",
+        "record_kind": "catalogue_coordinate",
+        "source_dataset": "sites_it_sicily.geojson",
+        "source_url": "https://www.openstreetmap.org/way/293793681",
+        "licence": "https://opendatacommons.org/licenses/odbl/1-0/",
+        "coordinate_method": "representative_point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.2570161,
+          37.0516313
+        ]
+      },
+      "properties": {
+        "id": "it_sicily_siracusa_temple_of_zeus_olympieion",
+        "name": "Temple of Zeus / Olympieion",
+        "record_kind": "catalogue_coordinate",
+        "source_dataset": "sites_it_sicily.geojson",
+        "source_url": "https://www.openstreetmap.org/way/267566077",
+        "licence": "https://opendatacommons.org/licenses/odbl/1-0/",
+        "coordinate_method": "representative_point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.8244584,
+          37.5888104
+        ]
+      },
+      "properties": {
+        "id": "it_sicily_trapani_selinunte_sacred_landscape",
+        "name": "Selinunte Sacred Landscape",
+        "record_kind": "catalogue_coordinate",
+        "source_dataset": "sites_it_sicily.geojson",
+        "source_url": "https://www.openstreetmap.org/way/45484477",
+        "licence": "https://opendatacommons.org/licenses/odbl/1-0/",
+        "coordinate_method": "representative_point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5921231,
+          38.0352677
+        ]
+      },
+      "properties": {
+        "id": "it_sicily_trapani_erice_venus_erycina",
+        "name": "Erice / Venus Erycina",
+        "record_kind": "catalogue_coordinate",
+        "source_dataset": "sites_it_sicily.geojson",
+        "source_url": "https://www.openstreetmap.org/way/23747826",
+        "licence": "https://opendatacommons.org/licenses/odbl/1-0/",
+        "coordinate_method": "representative_point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.321893,
+          38.0018776
+        ]
+      },
+      "properties": {
+        "id": "it_sicily_trapani_grotta_del_genovese",
+        "name": "Grotta del Genovese",
+        "record_kind": "catalogue_coordinate",
+        "source_dataset": "sites_it_sicily.geojson",
+        "source_url": "https://www.openstreetmap.org/node/1291439285",
+        "licence": "https://opendatacommons.org/licenses/odbl/1-0/",
+        "coordinate_method": "representative_point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.9329001,
+          36.8074664
+        ]
+      },
+      "properties": {
+        "id": "it_sicily_trapani_mursia_sesi",
+        "name": "Mursia & Sesi",
+        "record_kind": "catalogue_coordinate",
+        "source_dataset": "sites_it_sicily.geojson",
+        "source_url": "https://www.openstreetmap.org/way/336813051",
+        "licence": "https://opendatacommons.org/licenses/odbl/1-0/",
+        "coordinate_method": "representative_point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.9867348,
+          36.8159736
+        ]
+      },
+      "properties": {
+        "id": "it_sicily_trapani_lago_di_venere",
+        "name": "Lago di Venere",
+        "record_kind": "catalogue_coordinate",
+        "source_dataset": "sites_it_sicily.geojson",
+        "source_url": "https://www.openstreetmap.org/relation/6039602",
+        "licence": "https://opendatacommons.org/licenses/odbl/1-0/",
+        "coordinate_method": "representative_point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.95125,
+          36.82238
+        ]
+      },
+      "properties": {
+        "id": "it_sicily_trapani_pantelleria_acropolis",
+        "name": "Pantelleria Acropolis",
+        "record_kind": "catalogue_coordinate",
+        "source_dataset": "sites_it_sicily.geojson",
+        "source_url": "https://www.openstreetmap.org/node/5594338628",
+        "licence": "https://opendatacommons.org/licenses/odbl/1-0/",
+        "coordinate_method": "representative_point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4242472,
+          37.8020705
+        ]
+      },
+      "properties": {
+        "id": "it_sicily_trapani_capo_boeo",
+        "name": "Capo Boeo",
+        "record_kind": "catalogue_coordinate",
+        "source_dataset": "sites_it_sicily.geojson",
+        "source_url": "https://www.openstreetmap.org/node/666424137",
+        "licence": "https://opendatacommons.org/licenses/odbl/1-0/",
+        "coordinate_method": "representative_point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4373396,
+          37.8044541
+        ]
+      },
+      "properties": {
+        "id": "it_sicily_trapani_ipogeo_di_crispia_salvia",
+        "name": "Ipogeo di Crispia Salvia",
+        "record_kind": "catalogue_coordinate",
+        "source_dataset": "sites_it_sicily.geojson",
+        "source_url": "https://www.openstreetmap.org/node/2514423250",
+        "licence": "https://opendatacommons.org/licenses/odbl/1-0/",
+        "coordinate_method": "representative_point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.127391,
+          51.499399
+        ]
+      },
+      "properties": {
+        "id": "westminster_abbey",
+        "name": "Westminster Abbey",
+        "record_kind": "catalogue_coordinate",
+        "source_dataset": "sites_london.geojson",
+        "source_url": "https://www.openstreetmap.org/way/364313092",
+        "licence": "https://opendatacommons.org/licenses/odbl/1-0/",
+        "coordinate_method": "representative_point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1102238,
+          51.5132574
+        ]
+      },
+      "properties": {
+        "id": "temple_church",
+        "name": "Temple Church",
+        "record_kind": "catalogue_coordinate",
+        "source_dataset": "sites_london.geojson",
+        "source_url": "https://www.openstreetmap.org/way/128454313",
+        "licence": "https://opendatacommons.org/licenses/odbl/1-0/",
+        "coordinate_method": "representative_point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0995637,
+          51.5188876
+        ]
+      },
+      "properties": {
+        "id": "st_bartholomew_great",
+        "name": "St Bartholomew the Great",
+        "record_kind": "catalogue_coordinate",
+        "source_dataset": "sites_london.geojson",
+        "source_url": "https://www.openstreetmap.org/way/31755876",
+        "licence": "https://opendatacommons.org/licenses/odbl/1-0/",
+        "coordinate_method": "representative_point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0906755,
+          51.5123791
+        ]
+      },
+      "properties": {
+        "id": "london_mithraeum",
+        "name": "London Mithraeum",
+        "record_kind": "catalogue_coordinate",
+        "source_dataset": "sites_london.geojson",
+        "source_url": "https://www.openstreetmap.org/way/512846335",
+        "licence": "https://opendatacommons.org/licenses/odbl/1-0/",
+        "coordinate_method": "representative_point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0824956,
+          51.5096776
+        ]
+      },
+      "properties": {
+        "id": "st_dunstan_east",
+        "name": "St Dunstan in the East",
+        "record_kind": "catalogue_coordinate",
+        "source_dataset": "sites_london.geojson",
+        "source_url": "https://www.openstreetmap.org/way/237522043",
+        "licence": "https://opendatacommons.org/licenses/odbl/1-0/",
+        "coordinate_method": "representative_point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0896246,
+          51.5061288
+        ]
+      },
+      "properties": {
+        "id": "southwark_cathedral",
+        "name": "Southwark Cathedral",
+        "record_kind": "catalogue_coordinate",
+        "source_dataset": "sites_london.geojson",
+        "source_url": "https://www.openstreetmap.org/way/26183417",
+        "licence": "https://opendatacommons.org/licenses/odbl/1-0/",
+        "coordinate_method": "representative_point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.19105,
+          51.4851394
+        ]
+      },
+      "properties": {
+        "id": "brompton_cemetery",
+        "name": "Brompton Cemetery",
+        "record_kind": "catalogue_coordinate",
+        "source_dataset": "sites_london.geojson",
+        "source_url": "https://www.openstreetmap.org/way/4999977",
+        "licence": "https://opendatacommons.org/licenses/odbl/1-0/",
+        "coordinate_method": "representative_point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1485936,
+          51.5677764
+        ]
+      },
+      "properties": {
+        "id": "highgate_cemetery",
+        "name": "Highgate Cemetery",
+        "record_kind": "catalogue_coordinate",
+        "source_dataset": "sites_london.geojson",
+        "source_url": "https://www.openstreetmap.org/relation/1612806",
+        "licence": "https://opendatacommons.org/licenses/odbl/1-0/",
+        "coordinate_method": "representative_point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0519846,
+          51.4628663
+        ]
+      },
+      "properties": {
+        "id": "nunhead_cemetery",
+        "name": "Nunhead Cemetery",
+        "record_kind": "catalogue_coordinate",
+        "source_dataset": "sites_london.geojson",
+        "source_url": "https://www.openstreetmap.org/way/4993995",
+        "licence": "https://opendatacommons.org/licenses/odbl/1-0/",
+        "coordinate_method": "representative_point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.077726,
+          51.5644164
+        ]
+      },
+      "properties": {
+        "id": "abney_park_cemetery",
+        "name": "Abney Park Cemetery",
+        "record_kind": "catalogue_coordinate",
+        "source_dataset": "sites_london.geojson",
+        "source_url": "https://www.openstreetmap.org/way/4481918",
+        "licence": "https://opendatacommons.org/licenses/odbl/1-0/",
+        "coordinate_method": "representative_point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2246398,
+          51.5283511
+        ]
+      },
+      "properties": {
+        "id": "kensal_green_cemetery",
+        "name": "Kensal Green Cemetery",
+        "record_kind": "catalogue_coordinate",
+        "source_dataset": "sites_london.geojson",
+        "source_url": "https://www.openstreetmap.org/way/149381619",
+        "licence": "https://opendatacommons.org/licenses/odbl/1-0/",
+        "coordinate_method": "representative_point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0933727,
+          51.5038805
+        ]
+      },
+      "properties": {
+        "id": "crossbones_graveyard",
+        "name": "Crossbones Graveyard & Garden of Remembrance",
+        "record_kind": "catalogue_coordinate",
+        "source_dataset": "sites_london.geojson",
+        "source_url": "https://www.openstreetmap.org/way/42784759",
+        "licence": "https://opendatacommons.org/licenses/odbl/1-0/",
+        "coordinate_method": "representative_point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1289555,
+          51.4889564
+        ]
+      },
+      "properties": {
+        "id": "lesnes_abbey",
+        "name": "Lesnes Abbey Ruins",
+        "record_kind": "catalogue_coordinate",
+        "source_dataset": "sites_london.geojson",
+        "source_url": "https://www.openstreetmap.org/way/5180817",
+        "licence": "https://opendatacommons.org/licenses/odbl/1-0/",
+        "coordinate_method": "representative_point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0025026,
+          51.4764635
+        ]
+      },
+      "properties": {
+        "id": "greenwich_park_barrow_cemetery",
+        "name": "Greenwich Park Anglo-Saxon Barrows",
+        "record_kind": "catalogue_coordinate",
+        "source_dataset": "sites_london.geojson",
+        "source_url": "https://www.openstreetmap.org/way/1022442426",
+        "licence": "https://opendatacommons.org/licenses/odbl/1-0/",
+        "coordinate_method": "representative_point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0485919,
+          51.4470989
+        ]
+      },
+      "properties": {
+        "id": "eltham_palace",
+        "name": "Eltham Palace",
+        "record_kind": "catalogue_coordinate",
+        "source_dataset": "sites_london.geojson",
+        "source_url": "https://www.openstreetmap.org/way/17110975",
+        "licence": "https://opendatacommons.org/licenses/odbl/1-0/",
+        "coordinate_method": "representative_point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1264199,
+          51.4984817
+        ]
+      },
+      "properties": {
+        "id": "jewel_tower",
+        "name": "Jewel Tower",
+        "record_kind": "catalogue_coordinate",
+        "source_dataset": "sites_london.geojson",
+        "source_url": "https://www.openstreetmap.org/way/136105050",
+        "licence": "https://opendatacommons.org/licenses/odbl/1-0/",
+        "coordinate_method": "representative_point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0859491,
+          51.5101415
+        ]
+      },
+      "properties": {
+        "id": "monument_great_fire",
+        "name": "The Monument to the Great Fire",
+        "record_kind": "catalogue_coordinate",
+        "source_dataset": "sites_london.geojson",
+        "source_url": "https://www.openstreetmap.org/relation/3374550",
+        "licence": "https://opendatacommons.org/licenses/odbl/1-0/",
+        "coordinate_method": "representative_point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.69877,
+          51.14468
+        ]
+      },
+      "properties": {
+        "id": "anchor_glastonbury_tor",
+        "record_kind": "alignment_anchor",
+        "name": "Glastonbury Tor",
+        "longitude": -2.69877,
+        "latitude": 51.14468,
+        "source_url": "https://www.openstreetmap.org/node/608628358",
+        "licence": "https://opendatacommons.org/licenses/odbl/1-0/",
+        "coordinate_method": "nominatim_representative_point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.8517053,
+          51.4286099
+        ]
+      },
+      "properties": {
+        "id": "anchor_avebury_stone_circle",
+        "record_kind": "alignment_anchor",
+        "name": "Avebury Stone Circle",
+        "longitude": -1.8517053,
+        "latitude": 51.4286099,
+        "source_url": "https://www.openstreetmap.org/way/353244910",
+        "licence": "https://opendatacommons.org/licenses/odbl/1-0/",
+        "coordinate_method": "nominatim_representative_point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.4776149,
+          50.1175645
+        ]
+      },
+      "properties": {
+        "id": "anchor_st_michaels_mount",
+        "record_kind": "alignment_anchor",
+        "name": "St Michael's Mount",
+        "longitude": -5.4776149,
+        "latitude": 50.1175645,
+        "source_url": "https://www.openstreetmap.org/way/147209474",
+        "licence": "https://opendatacommons.org/licenses/odbl/1-0/",
+        "coordinate_method": "nominatim_representative_point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.7450743,
+          58.1978204
+        ]
+      },
+      "properties": {
+        "id": "anchor_callanish_stones",
+        "record_kind": "alignment_anchor",
+        "name": "Callanish Stones",
+        "longitude": -6.7450743,
+        "latitude": 58.1978204,
+        "source_url": "https://www.openstreetmap.org/relation/10730544",
+        "licence": "https://opendatacommons.org/licenses/odbl/1-0/",
+        "coordinate_method": "osm_bounds_centre"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.8008977,
+          55.6691319
+        ]
+      },
+      "properties": {
+        "id": "anchor_lindisfarne_priory",
+        "record_kind": "alignment_anchor",
+        "name": "Holy Island / Lindisfarne Priory",
+        "longitude": -1.8008977,
+        "latitude": 55.6691319,
+        "source_url": "https://www.openstreetmap.org/node/292001558",
+        "licence": "https://opendatacommons.org/licenses/odbl/1-0/",
+        "coordinate_method": "nominatim_representative_point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.2298959,
+          59.0016482
+        ]
+      },
+      "properties": {
+        "id": "anchor_ring_of_brodgar",
+        "record_kind": "alignment_anchor",
+        "name": "Ring of Brodgar",
+        "longitude": -3.2298959,
+        "latitude": 59.0016482,
+        "source_url": "https://www.openstreetmap.org/way/268713656",
+        "licence": "https://opendatacommons.org/licenses/odbl/1-0/",
+        "coordinate_method": "nominatim_representative_point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.7615222,
+          53.16893
+        ]
+      },
+      "properties": {
+        "id": "anchor_arbor_low",
+        "record_kind": "alignment_anchor",
+        "name": "Arbor Low",
+        "longitude": -1.7615222,
+        "latitude": 53.16893,
+        "source_url": "https://www.openstreetmap.org/node/303571761",
+        "licence": "https://opendatacommons.org/licenses/odbl/1-0/",
+        "coordinate_method": "nominatim_representative_point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.4084008,
+          56.3289175
+        ]
+      },
+      "properties": {
+        "id": "anchor_iona",
+        "record_kind": "alignment_anchor",
+        "name": "Iona",
+        "longitude": -6.4084008,
+        "latitude": 56.3289175,
+        "source_url": "https://www.openstreetmap.org/relation/12597445",
+        "licence": "https://opendatacommons.org/licenses/odbl/1-0/",
+        "coordinate_method": "nominatim_representative_point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.7269216,
+          52.5390769
+        ]
+      },
+      "properties": {
+        "id": "anchor_hopton",
+        "record_kind": "alignment_anchor",
+        "name": "Hopton-on-Sea",
+        "longitude": 1.7269216,
+        "latitude": 52.5390769,
+        "source_url": "https://www.openstreetmap.org/way/1536999036",
+        "licence": "https://opendatacommons.org/licenses/odbl/1-0/",
+        "coordinate_method": "nominatim_representative_point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9159771,
+          51.0703434
+        ]
+      },
+      "properties": {
+        "id": "anchor_burrow_mump",
+        "record_kind": "alignment_anchor",
+        "name": "Burrow Mump",
+        "longitude": -2.9159771,
+        "latitude": 51.0703434,
+        "source_url": "https://www.openstreetmap.org/way/45330426",
+        "licence": "https://opendatacommons.org/licenses/odbl/1-0/",
+        "coordinate_method": "nominatim_representative_point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.7742169,
+          50.7321405
+        ]
+      },
+      "properties": {
+        "id": "anchor_christchurch",
+        "record_kind": "alignment_anchor",
+        "name": "Christchurch Priory",
+        "longitude": -1.7742169,
+        "latitude": 50.7321405,
+        "source_url": "https://www.openstreetmap.org/way/157706162",
+        "licence": "https://opendatacommons.org/licenses/odbl/1-0/",
+        "coordinate_method": "nominatim_representative_point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.77435,
+          58.6045303
+        ]
+      },
+      "properties": {
+        "id": "anchor_faraid_head",
+        "record_kind": "alignment_anchor",
+        "name": "Faraid Head",
+        "longitude": -4.77435,
+        "latitude": 58.6045303,
+        "source_url": "https://www.openstreetmap.org/node/13990381770",
+        "licence": "https://opendatacommons.org/licenses/odbl/1-0/",
+        "coordinate_method": "nominatim_representative_point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.154091,
+          50.6781494
+        ]
+      },
+      "properties": {
+        "id": "anchor_brading_down",
+        "record_kind": "alignment_anchor",
+        "name": "Brading Down",
+        "longitude": -1.154091,
+        "latitude": 50.6781494,
+        "source_url": "https://www.openstreetmap.org/node/4422127820",
+        "licence": "https://opendatacommons.org/licenses/odbl/1-0/",
+        "coordinate_method": "nominatim_representative_point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.4616672,
+          54.2632399
+        ]
+      },
+      "properties": {
+        "id": "anchor_snaefell",
+        "record_kind": "alignment_anchor",
+        "name": "Snaefell summit",
+        "longitude": -4.4616672,
+        "latitude": 54.2632399,
+        "source_url": "https://www.openstreetmap.org/node/283514313",
+        "licence": "https://opendatacommons.org/licenses/odbl/1-0/",
+        "coordinate_method": "nominatim_representative_point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.7194845,
+          52.244221
+        ]
+      },
+      "properties": {
+        "id": "anchor_bury",
+        "record_kind": "alignment_anchor",
+        "name": "Bury St Edmunds Abbey",
+        "longitude": 0.7194845,
+        "latitude": 52.244221,
+        "source_url": "https://www.openstreetmap.org/node/298669008",
+        "licence": "https://opendatacommons.org/licenses/odbl/1-0/",
+        "coordinate_method": "nominatim_representative_point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0377265,
+          57.3827284
+        ]
+      },
+      "properties": {
+        "id": "anchor_loch_moy",
+        "record_kind": "alignment_anchor",
+        "name": "Loch Moy island obelisk",
+        "longitude": -4.0377265,
+        "latitude": 57.3827284,
+        "source_url": "https://www.openstreetmap.org/node/12994199807",
+        "licence": "https://opendatacommons.org/licenses/odbl/1-0/",
+        "coordinate_method": "osm_node",
+        "note": "The named obelisk on the island identified in the claim; not the lake centre or unrelated Moy Island near Marybank."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9371106,
+          55.8529245
+        ]
+      },
+      "properties": {
+        "id": "anchor_marl_law",
+        "record_kind": "alignment_anchor",
+        "name": "Marl Law Wood",
+        "longitude": -2.9371106,
+        "latitude": 55.8529245,
+        "source_url": "https://www.openstreetmap.org/way/243653036",
+        "licence": "https://opendatacommons.org/licenses/odbl/1-0/",
+        "coordinate_method": "osm_bounds_centre",
+        "note": "Representative centre of the wood named alongside Mavis Hall in the claim source; not a surveyed current or a hotel entrance."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.0349887,
+          57.4592693
+        ]
+      },
+      "properties": {
+        "id": "anchor_skelmuir",
+        "record_kind": "alignment_anchor",
+        "name": "Skelmuir Hill possible stone circle",
+        "longitude": -2.0349887,
+        "latitude": 57.4592693,
+        "source_url": "https://inspire.hes.scot/arcgis/rest/services/CANMORE/Canmore_Points/MapServer/0/query?where=CANMOREID%3D20660&outFields=CANMOREID,NMRSNAME,SITETYPE,GRIDREF,ACCURACY,LICENCE&outSR=4326&f=json",
+        "licence": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+        "coordinate_method": "hes_record_wgs84_representative_point",
+        "record_id": 20660,
+        "source_grid_reference": "NJ 98 41",
+        "accuracy": "NGR given to the nearest 1km",
+        "source_licence": "Open Government Licence",
+        "note": "Official possible stone-circle record, located only to 1 km. The route is schematic at this anchor; not the neighbouring standing-stone or summit record."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -5.4776149,
+            50.1175645
+          ],
+          [
+            -2.9159771,
+            51.0703434
+          ],
+          [
+            -2.69877,
+            51.14468
+          ],
+          [
+            -1.8517053,
+            51.4286099
+          ],
+          [
+            0.7194845,
+            52.244221
+          ],
+          [
+            1.7269216,
+            52.5390769
+          ]
+        ]
+      },
+      "properties": {
+        "id": "st_michael_line",
+        "name": "St Michael's Ley Line",
+        "record_kind": "signal_constructed_alignment",
+        "licence": "https://opendatacommons.org/licenses/odbl/1-0/",
+        "claim_sources": [
+          "https://www.davidfurlong.co.uk/michael_alignment.htm"
+        ],
+        "anchors": [
+          {
+            "name": "St Michael's Mount",
+            "longitude": -5.4776149,
+            "latitude": 50.1175645,
+            "source_url": "https://www.openstreetmap.org/way/147209474",
+            "licence": "https://opendatacommons.org/licenses/odbl/1-0/",
+            "coordinate_method": "nominatim_representative_point"
+          },
+          {
+            "name": "Burrow Mump",
+            "longitude": -2.9159771,
+            "latitude": 51.0703434,
+            "source_url": "https://www.openstreetmap.org/way/45330426",
+            "licence": "https://opendatacommons.org/licenses/odbl/1-0/",
+            "coordinate_method": "nominatim_representative_point"
+          },
+          {
+            "name": "Glastonbury Tor",
+            "longitude": -2.69877,
+            "latitude": 51.14468,
+            "source_url": "https://www.openstreetmap.org/node/608628358",
+            "licence": "https://opendatacommons.org/licenses/odbl/1-0/",
+            "coordinate_method": "nominatim_representative_point"
+          },
+          {
+            "name": "Avebury Stone Circle",
+            "longitude": -1.8517053,
+            "latitude": 51.4286099,
+            "source_url": "https://www.openstreetmap.org/way/353244910",
+            "licence": "https://opendatacommons.org/licenses/odbl/1-0/",
+            "coordinate_method": "nominatim_representative_point"
+          },
+          {
+            "name": "Bury St Edmunds Abbey",
+            "longitude": 0.7194845,
+            "latitude": 52.244221,
+            "source_url": "https://www.openstreetmap.org/node/298669008",
+            "licence": "https://opendatacommons.org/licenses/odbl/1-0/",
+            "coordinate_method": "nominatim_representative_point"
+          },
+          {
+            "name": "Hopton-on-Sea",
+            "longitude": 1.7269216,
+            "latitude": 52.5390769,
+            "source_url": "https://www.openstreetmap.org/way/1536999036",
+            "licence": "https://opendatacommons.org/licenses/odbl/1-0/",
+            "coordinate_method": "nominatim_representative_point"
+          }
+        ],
+        "note": "Signal's representative construction. A claimed tradition, not an OSM route, walking track or measured physical field."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -2.9371106,
+            55.8529245
+          ],
+          [
+            -6.4084008,
+            56.3289175
+          ]
+        ]
+      },
+      "properties": {
+        "id": "south_west_scotland_ley",
+        "name": "Marl Law–Iona Ley Line",
+        "record_kind": "signal_constructed_alignment",
+        "licence": "https://opendatacommons.org/licenses/odbl/1-0/",
+        "claim_sources": [
+          "https://davidfurlong.co.uk/scotland.htm"
+        ],
+        "anchors": [
+          {
+            "name": "Marl Law Wood",
+            "longitude": -2.9371106,
+            "latitude": 55.8529245,
+            "source_url": "https://www.openstreetmap.org/way/243653036",
+            "licence": "https://opendatacommons.org/licenses/odbl/1-0/",
+            "coordinate_method": "osm_bounds_centre",
+            "note": "Representative centre of the wood named alongside Mavis Hall in the claim source; not a surveyed current or a hotel entrance."
+          },
+          {
+            "name": "Iona",
+            "longitude": -6.4084008,
+            "latitude": 56.3289175,
+            "source_url": "https://www.openstreetmap.org/relation/12597445",
+            "licence": "https://opendatacommons.org/licenses/odbl/1-0/",
+            "coordinate_method": "nominatim_representative_point"
+          }
+        ],
+        "note": "Signal's representative construction. A claimed tradition, not an OSM route, walking track or measured physical field."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -6.7450743,
+            58.1978204
+          ],
+          [
+            -3.2298959,
+            59.0016482
+          ]
+        ]
+      },
+      "properties": {
+        "id": "north_east_scotland_ley_138",
+        "name": "Callanish–Brodgar Ley Line",
+        "record_kind": "signal_constructed_alignment",
+        "licence": "https://opendatacommons.org/licenses/odbl/1-0/",
+        "claim_sources": [
+          "https://davidfurlong.co.uk/scotland.htm"
+        ],
+        "anchors": [
+          {
+            "name": "Callanish Stones",
+            "longitude": -6.7450743,
+            "latitude": 58.1978204,
+            "source_url": "https://www.openstreetmap.org/relation/10730544",
+            "licence": "https://opendatacommons.org/licenses/odbl/1-0/",
+            "coordinate_method": "osm_bounds_centre"
+          },
+          {
+            "name": "Ring of Brodgar",
+            "longitude": -3.2298959,
+            "latitude": 59.0016482,
+            "source_url": "https://www.openstreetmap.org/way/268713656",
+            "licence": "https://opendatacommons.org/licenses/odbl/1-0/",
+            "coordinate_method": "nominatim_representative_point"
+          }
+        ],
+        "note": "Signal's representative construction. A claimed tradition, not an OSM route, walking track or measured physical field."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -6.4084008,
+            56.3289175
+          ],
+          [
+            -6.7450743,
+            58.1978204
+          ]
+        ]
+      },
+      "properties": {
+        "id": "western_scotland_ley",
+        "name": "Western Scotland Ley Line",
+        "record_kind": "signal_constructed_alignment",
+        "licence": "https://opendatacommons.org/licenses/odbl/1-0/",
+        "claim_sources": [
+          "https://davidfurlong.co.uk/scotland.htm"
+        ],
+        "anchors": [
+          {
+            "name": "Iona",
+            "longitude": -6.4084008,
+            "latitude": 56.3289175,
+            "source_url": "https://www.openstreetmap.org/relation/12597445",
+            "licence": "https://opendatacommons.org/licenses/odbl/1-0/",
+            "coordinate_method": "nominatim_representative_point"
+          },
+          {
+            "name": "Callanish Stones",
+            "longitude": -6.7450743,
+            "latitude": 58.1978204,
+            "source_url": "https://www.openstreetmap.org/relation/10730544",
+            "licence": "https://opendatacommons.org/licenses/odbl/1-0/",
+            "coordinate_method": "osm_bounds_centre"
+          }
+        ],
+        "note": "Signal's representative construction. A claimed tradition, not an OSM route, walking track or measured physical field."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -2.0349887,
+            57.4592693
+          ],
+          [
+            -2.9371106,
+            55.8529245
+          ]
+        ]
+      },
+      "properties": {
+        "id": "eastern_scotland_ley",
+        "name": "Eastern Scotland Ley Line",
+        "record_kind": "signal_constructed_alignment",
+        "licence": "https://opendatacommons.org/licenses/odbl/1-0/",
+        "claim_sources": [
+          "https://davidfurlong.co.uk/scotland.htm"
+        ],
+        "anchors": [
+          {
+            "name": "Skelmuir Hill possible stone circle",
+            "longitude": -2.0349887,
+            "latitude": 57.4592693,
+            "source_url": "https://inspire.hes.scot/arcgis/rest/services/CANMORE/Canmore_Points/MapServer/0/query?where=CANMOREID%3D20660&outFields=CANMOREID,NMRSNAME,SITETYPE,GRIDREF,ACCURACY,LICENCE&outSR=4326&f=json",
+            "licence": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+            "coordinate_method": "hes_record_wgs84_representative_point",
+            "record_id": 20660,
+            "source_grid_reference": "NJ 98 41",
+            "accuracy": "NGR given to the nearest 1km",
+            "source_licence": "Open Government Licence",
+            "note": "Official possible stone-circle record, located only to 1 km. The route is schematic at this anchor; not the neighbouring standing-stone or summit record."
+          },
+          {
+            "name": "Marl Law Wood",
+            "longitude": -2.9371106,
+            "latitude": 55.8529245,
+            "source_url": "https://www.openstreetmap.org/way/243653036",
+            "licence": "https://opendatacommons.org/licenses/odbl/1-0/",
+            "coordinate_method": "osm_bounds_centre",
+            "note": "Representative centre of the wood named alongside Mavis Hall in the claim source; not a surveyed current or a hotel entrance."
+          }
+        ],
+        "note": "Signal's representative construction. A claimed tradition, not an OSM route, walking track or measured physical field."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.0377265,
+            57.3827284
+          ],
+          [
+            -3.2298959,
+            59.0016482
+          ]
+        ]
+      },
+      "properties": {
+        "id": "ring_of_brodgar_circle_ley",
+        "name": "Ring of Brodgar Ley Line",
+        "record_kind": "signal_constructed_alignment",
+        "licence": "https://opendatacommons.org/licenses/odbl/1-0/",
+        "claim_sources": [
+          "https://davidfurlong.co.uk/scotland.htm"
+        ],
+        "anchors": [
+          {
+            "name": "Loch Moy island obelisk",
+            "longitude": -4.0377265,
+            "latitude": 57.3827284,
+            "source_url": "https://www.openstreetmap.org/node/12994199807",
+            "licence": "https://opendatacommons.org/licenses/odbl/1-0/",
+            "coordinate_method": "osm_node",
+            "note": "The named obelisk on the island identified in the claim; not the lake centre or unrelated Moy Island near Marybank."
+          },
+          {
+            "name": "Ring of Brodgar",
+            "longitude": -3.2298959,
+            "latitude": 59.0016482,
+            "source_url": "https://www.openstreetmap.org/way/268713656",
+            "licence": "https://opendatacommons.org/licenses/odbl/1-0/",
+            "coordinate_method": "nominatim_representative_point"
+          }
+        ],
+        "note": "Signal's representative construction. A claimed tradition, not an OSM route, walking track or measured physical field."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.0377265,
+            57.3827284
+          ],
+          [
+            -6.4084008,
+            56.3289175
+          ]
+        ]
+      },
+      "properties": {
+        "id": "iona_ley",
+        "name": "Iona Ley Line",
+        "record_kind": "signal_constructed_alignment",
+        "licence": "https://opendatacommons.org/licenses/odbl/1-0/",
+        "claim_sources": [
+          "https://davidfurlong.co.uk/scotland.htm"
+        ],
+        "anchors": [
+          {
+            "name": "Loch Moy island obelisk",
+            "longitude": -4.0377265,
+            "latitude": 57.3827284,
+            "source_url": "https://www.openstreetmap.org/node/12994199807",
+            "licence": "https://opendatacommons.org/licenses/odbl/1-0/",
+            "coordinate_method": "osm_node",
+            "note": "The named obelisk on the island identified in the claim; not the lake centre or unrelated Moy Island near Marybank."
+          },
+          {
+            "name": "Iona",
+            "longitude": -6.4084008,
+            "latitude": 56.3289175,
+            "source_url": "https://www.openstreetmap.org/relation/12597445",
+            "licence": "https://opendatacommons.org/licenses/odbl/1-0/",
+            "coordinate_method": "nominatim_representative_point"
+          }
+        ],
+        "note": "Signal's representative construction. A claimed tradition, not an OSM route, walking track or measured physical field."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -3.2298959,
+            59.0016482
+          ],
+          [
+            -2.0349887,
+            57.4592693
+          ]
+        ]
+      },
+      "properties": {
+        "id": "north_east_scotland_ley_115",
+        "name": "Brodgar–Skelmuir Ley Line",
+        "record_kind": "signal_constructed_alignment",
+        "licence": "https://opendatacommons.org/licenses/odbl/1-0/",
+        "claim_sources": [
+          "https://davidfurlong.co.uk/scotland.htm"
+        ],
+        "anchors": [
+          {
+            "name": "Ring of Brodgar",
+            "longitude": -3.2298959,
+            "latitude": 59.0016482,
+            "source_url": "https://www.openstreetmap.org/way/268713656",
+            "licence": "https://opendatacommons.org/licenses/odbl/1-0/",
+            "coordinate_method": "nominatim_representative_point"
+          },
+          {
+            "name": "Skelmuir Hill possible stone circle",
+            "longitude": -2.0349887,
+            "latitude": 57.4592693,
+            "source_url": "https://inspire.hes.scot/arcgis/rest/services/CANMORE/Canmore_Points/MapServer/0/query?where=CANMOREID%3D20660&outFields=CANMOREID,NMRSNAME,SITETYPE,GRIDREF,ACCURACY,LICENCE&outSR=4326&f=json",
+            "licence": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+            "coordinate_method": "hes_record_wgs84_representative_point",
+            "record_id": 20660,
+            "source_grid_reference": "NJ 98 41",
+            "accuracy": "NGR given to the nearest 1km",
+            "source_licence": "Open Government Licence",
+            "note": "Official possible stone-circle record, located only to 1 km. The route is schematic at this anchor; not the neighbouring standing-stone or summit record."
+          }
+        ],
+        "note": "Signal's representative construction. A claimed tradition, not an OSM route, walking track or measured physical field."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.0377265,
+            57.3827284
+          ],
+          [
+            -2.9371106,
+            55.8529245
+          ]
+        ]
+      },
+      "properties": {
+        "id": "mavis_hall_ley",
+        "name": "Marl Law Wood Ley Line",
+        "record_kind": "signal_constructed_alignment",
+        "licence": "https://opendatacommons.org/licenses/odbl/1-0/",
+        "claim_sources": [
+          "https://davidfurlong.co.uk/scotland.htm"
+        ],
+        "anchors": [
+          {
+            "name": "Loch Moy island obelisk",
+            "longitude": -4.0377265,
+            "latitude": 57.3827284,
+            "source_url": "https://www.openstreetmap.org/node/12994199807",
+            "licence": "https://opendatacommons.org/licenses/odbl/1-0/",
+            "coordinate_method": "osm_node",
+            "note": "The named obelisk on the island identified in the claim; not the lake centre or unrelated Moy Island near Marybank."
+          },
+          {
+            "name": "Marl Law Wood",
+            "longitude": -2.9371106,
+            "latitude": 55.8529245,
+            "source_url": "https://www.openstreetmap.org/way/243653036",
+            "licence": "https://opendatacommons.org/licenses/odbl/1-0/",
+            "coordinate_method": "osm_bounds_centre",
+            "note": "Representative centre of the wood named alongside Mavis Hall in the claim source; not a surveyed current or a hotel entrance."
+          }
+        ],
+        "note": "Signal's representative construction. A claimed tradition, not an OSM route, walking track or measured physical field."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.0377265,
+            57.3827284
+          ],
+          [
+            -6.7450743,
+            58.1978204
+          ]
+        ]
+      },
+      "properties": {
+        "id": "callanish_circle_ley",
+        "name": "Callanish Ley Line",
+        "record_kind": "signal_constructed_alignment",
+        "licence": "https://opendatacommons.org/licenses/odbl/1-0/",
+        "claim_sources": [
+          "https://davidfurlong.co.uk/scotland.htm"
+        ],
+        "anchors": [
+          {
+            "name": "Loch Moy island obelisk",
+            "longitude": -4.0377265,
+            "latitude": 57.3827284,
+            "source_url": "https://www.openstreetmap.org/node/12994199807",
+            "licence": "https://opendatacommons.org/licenses/odbl/1-0/",
+            "coordinate_method": "osm_node",
+            "note": "The named obelisk on the island identified in the claim; not the lake centre or unrelated Moy Island near Marybank."
+          },
+          {
+            "name": "Callanish Stones",
+            "longitude": -6.7450743,
+            "latitude": 58.1978204,
+            "source_url": "https://www.openstreetmap.org/relation/10730544",
+            "licence": "https://opendatacommons.org/licenses/odbl/1-0/",
+            "coordinate_method": "osm_bounds_centre"
+          }
+        ],
+        "note": "Signal's representative construction. A claimed tradition, not an OSM route, walking track or measured physical field."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.0377265,
+            57.3827284
+          ],
+          [
+            -2.0349887,
+            57.4592693
+          ]
+        ]
+      },
+      "properties": {
+        "id": "skelmuir_hill_circle_ley",
+        "name": "Skelmuir Hill Ley Line",
+        "record_kind": "signal_constructed_alignment",
+        "licence": "https://opendatacommons.org/licenses/odbl/1-0/",
+        "claim_sources": [
+          "https://davidfurlong.co.uk/scotland.htm"
+        ],
+        "anchors": [
+          {
+            "name": "Loch Moy island obelisk",
+            "longitude": -4.0377265,
+            "latitude": 57.3827284,
+            "source_url": "https://www.openstreetmap.org/node/12994199807",
+            "licence": "https://opendatacommons.org/licenses/odbl/1-0/",
+            "coordinate_method": "osm_node",
+            "note": "The named obelisk on the island identified in the claim; not the lake centre or unrelated Moy Island near Marybank."
+          },
+          {
+            "name": "Skelmuir Hill possible stone circle",
+            "longitude": -2.0349887,
+            "latitude": 57.4592693,
+            "source_url": "https://inspire.hes.scot/arcgis/rest/services/CANMORE/Canmore_Points/MapServer/0/query?where=CANMOREID%3D20660&outFields=CANMOREID,NMRSNAME,SITETYPE,GRIDREF,ACCURACY,LICENCE&outSR=4326&f=json",
+            "licence": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+            "coordinate_method": "hes_record_wgs84_representative_point",
+            "record_id": 20660,
+            "source_grid_reference": "NJ 98 41",
+            "accuracy": "NGR given to the nearest 1km",
+            "source_licence": "Open Government Licence",
+            "note": "Official possible stone-circle record, located only to 1 km. The route is schematic at this anchor; not the neighbouring standing-stone or summit record."
+          }
+        ],
+        "note": "Signal's representative construction. A claimed tradition, not an OSM route, walking track or measured physical field."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.7742169,
+            50.7321405
+          ],
+          [
+            -1.7615222,
+            53.16893
+          ],
+          [
+            -1.8008977,
+            55.6691319
+          ]
+        ]
+      },
+      "properties": {
+        "id": "great_north_line",
+        "name": "Great North Ley Line",
+        "record_kind": "signal_constructed_alignment",
+        "licence": "https://opendatacommons.org/licenses/odbl/1-0/",
+        "claim_sources": [
+          "https://www.weidenfeldandnicolson.co.uk/titles/robert-twigger/walking-the-great-north-line/9781474609067/",
+          "https://www.wigtownbookfestival.com/blog/5-questions-robert-twigger"
+        ],
+        "anchors": [
+          {
+            "name": "Christchurch Priory",
+            "longitude": -1.7742169,
+            "latitude": 50.7321405,
+            "source_url": "https://www.openstreetmap.org/way/157706162",
+            "licence": "https://opendatacommons.org/licenses/odbl/1-0/",
+            "coordinate_method": "nominatim_representative_point"
+          },
+          {
+            "name": "Arbor Low",
+            "longitude": -1.7615222,
+            "latitude": 53.16893,
+            "source_url": "https://www.openstreetmap.org/node/303571761",
+            "licence": "https://opendatacommons.org/licenses/odbl/1-0/",
+            "coordinate_method": "nominatim_representative_point"
+          },
+          {
+            "name": "Holy Island / Lindisfarne Priory",
+            "longitude": -1.8008977,
+            "latitude": 55.6691319,
+            "source_url": "https://www.openstreetmap.org/node/292001558",
+            "licence": "https://opendatacommons.org/licenses/odbl/1-0/",
+            "coordinate_method": "nominatim_representative_point"
+          }
+        ],
+        "note": "Signal's representative construction. A claimed tradition, not an OSM route, walking track or measured physical field."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.154091,
+            50.6781494
+          ],
+          [
+            -4.77435,
+            58.6045303
+          ]
+        ]
+      },
+      "properties": {
+        "id": "belinus_named_axis",
+        "name": "Belinus Ley Line",
+        "record_kind": "signal_constructed_alignment",
+        "licence": "https://opendatacommons.org/licenses/odbl/1-0/",
+        "claim_sources": [
+          "https://belinusline.com/spined.php",
+          "https://belinusline.com/ebooks.php"
+        ],
+        "anchors": [
+          {
+            "name": "Brading Down",
+            "longitude": -1.154091,
+            "latitude": 50.6781494,
+            "source_url": "https://www.openstreetmap.org/node/4422127820",
+            "licence": "https://opendatacommons.org/licenses/odbl/1-0/",
+            "coordinate_method": "nominatim_representative_point"
+          },
+          {
+            "name": "Faraid Head",
+            "longitude": -4.77435,
+            "latitude": 58.6045303,
+            "source_url": "https://www.openstreetmap.org/node/13990381770",
+            "licence": "https://opendatacommons.org/licenses/odbl/1-0/",
+            "coordinate_method": "nominatim_representative_point"
+          }
+        ],
+        "note": "Signal's representative construction. A claimed tradition, not an OSM route, walking track or measured physical field."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.4616672,
+            54.2632399
+          ],
+          [
+            -2.69877,
+            51.14468
+          ],
+          [
+            -2.422736464,
+            50.636060658
+          ]
+        ]
+      },
+      "properties": {
+        "id": "mary_line",
+        "name": "Mary Line",
+        "record_kind": "signal_constructed_alignment",
+        "licence": "https://opendatacommons.org/licenses/odbl/1-0/",
+        "claim_sources": [],
+        "anchors": [
+          {
+            "name": "Snaefell summit",
+            "longitude": -4.4616672,
+            "latitude": 54.2632399,
+            "source_url": "https://www.openstreetmap.org/node/283514313",
+            "licence": "https://opendatacommons.org/licenses/odbl/1-0/",
+            "coordinate_method": "nominatim_representative_point"
+          },
+          {
+            "name": "Glastonbury Tor",
+            "longitude": -2.69877,
+            "latitude": 51.14468,
+            "source_url": "https://www.openstreetmap.org/node/608628358",
+            "licence": "https://opendatacommons.org/licenses/odbl/1-0/",
+            "coordinate_method": "nominatim_representative_point"
+          },
+          {
+            "name": "Bowleaze Cove coastline terminal",
+            "longitude": -2.422736464,
+            "latitude": 50.636060658,
+            "source_url": "https://www.openstreetmap.org/way/147364253",
+            "licence": "https://opendatacommons.org/licenses/odbl/1-0/",
+            "coordinate_method": "authored_web_mercator_axis_intersection_with_osm_coastline"
+          }
+        ],
+        "note": "Signal's representative construction. A claimed tradition, not an OSM route, walking track or measured physical field."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -2.42844,
+            50.6341127
+          ],
+          [
+            -2.4279658,
+            50.6343091
+          ],
+          [
+            -2.4272398,
+            50.6345864
+          ],
+          [
+            -2.4263109,
+            50.6348856
+          ],
+          [
+            -2.425033,
+            50.6353133
+          ],
+          [
+            -2.4238109,
+            50.6357216
+          ],
+          [
+            -2.4226682,
+            50.6360822
+          ],
+          [
+            -2.4214209,
+            50.6363596
+          ],
+          [
+            -2.4204776,
+            50.6364663
+          ],
+          [
+            -2.4197183,
+            50.6364552
+          ],
+          [
+            -2.4192511,
+            50.6359503
+          ],
+          [
+            -2.419194,
+            50.6358243
+          ],
+          [
+            -2.4190254,
+            50.6356269
+          ],
+          [
+            -2.4182297,
+            50.6352738
+          ],
+          [
+            -2.4162721,
+            50.6351524
+          ],
+          [
+            -2.4142934,
+            50.6349568
+          ],
+          [
+            -2.4126077,
+            50.6345309
+          ],
+          [
+            -2.4117043,
+            50.6343863
+          ],
+          [
+            -2.4114128,
+            50.6341693
+          ]
+        ]
+      },
+      "properties": {
+        "id": "mary_coastline_source",
+        "record_kind": "construction_source",
+        "source_url": "https://www.openstreetmap.org/way/147364253",
+        "licence": "https://opendatacommons.org/licenses/odbl/1-0/"
+      }
+    }
+  ]
+}
