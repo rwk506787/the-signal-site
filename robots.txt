@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://rwk506787.github.io/the-signal-site/sitemap.xml
