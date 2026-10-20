@@ -3202,6 +3202,25 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          145.2185968,
+          -37.9895153
+        ]
+      },
+      "properties": {
+        "id": "au_vic_heritage_hill_dandenong",
+        "name": "Heritage Hill Museum and Historic Gardens",
+        "record_kind": "catalogue_coordinate",
+        "source_dataset": "sites_au_baseline_vic.dataset",
+        "source_url": "https://www.openstreetmap.org/node/3860447968",
+        "licence": "https://opendatacommons.org/licenses/odbl/1-0/",
+        "coordinate_method": "Selected named OpenStreetMap feature returned by Nominatim; identity and locality cross-checked against the primary source."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           143.0699185,
           -38.6470373
         ]
@@ -3879,6 +3898,25 @@
         "source_url": "https://www.openstreetmap.org/node/595962953",
         "licence": "https://opendatacommons.org/licenses/odbl/1-0/",
         "coordinate_method": "Fetched named OpenStreetMap node, or representative mean of vertices of its named building/park footprint."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.7787069,
+          -31.7429319
+        ]
+      },
+      "properties": {
+        "id": "au_wa_neil_hawkins_park",
+        "name": "Neil Hawkins Park",
+        "record_kind": "catalogue_coordinate",
+        "source_dataset": "sites_au_baseline_wa.dataset",
+        "source_url": "https://www.openstreetmap.org/way/36810587",
+        "licence": "https://opendatacommons.org/licenses/odbl/1-0/",
+        "coordinate_method": "Selected named OpenStreetMap feature returned by Nominatim; identity and locality cross-checked against the primary source."
       }
     },
     {
@@ -4760,6 +4798,44 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -79.6362503,
+          43.5279839
+        ]
+      },
+      "properties": {
+        "id": "ca_on_benares_historic_house",
+        "name": "Benares Historic House",
+        "record_kind": "catalogue_coordinate",
+        "source_dataset": "sites_ca_baseline_on.dataset",
+        "source_url": "https://www.openstreetmap.org/way/404726194",
+        "licence": "https://opendatacommons.org/licenses/odbl/1-0/",
+        "coordinate_method": "Selected named OpenStreetMap feature returned by Nominatim; identity and locality cross-checked against the primary source."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.6110489,
+          43.5118731
+        ]
+      },
+      "properties": {
+        "id": "ca_on_bradley_museum",
+        "name": "Bradley Museum",
+        "record_kind": "catalogue_coordinate",
+        "source_dataset": "sites_ca_baseline_on.dataset",
+        "source_url": "https://www.openstreetmap.org/way/270605416",
+        "licence": "https://opendatacommons.org/licenses/odbl/1-0/",
+        "coordinate_method": "Selected named OpenStreetMap feature returned by Nominatim; identity and locality cross-checked against the primary source."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -80.3171399,
           43.3554183
         ]
@@ -4905,6 +4981,44 @@
         "source_url": "https://www.openstreetmap.org/way/603548306",
         "licence": "https://opendatacommons.org/licenses/odbl/1-0/",
         "coordinate_method": "Selected exact named OpenStreetMap feature returned by Nominatim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.6086434,
+          43.5172063
+        ]
+      },
+      "properties": {
+        "id": "ca_on_rattray_marsh",
+        "name": "Rattray Marsh Conservation Area",
+        "record_kind": "catalogue_coordinate",
+        "source_dataset": "sites_ca_baseline_on.dataset",
+        "source_url": "https://www.openstreetmap.org/way/149079402",
+        "licence": "https://opendatacommons.org/licenses/odbl/1-0/",
+        "coordinate_method": "Selected named OpenStreetMap feature returned by Nominatim; identity and locality cross-checked against the primary source."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.2554942,
+          43.6970127
+        ]
+      },
+      "properties": {
+        "id": "ca_on_rosetta_mcclain_gardens",
+        "name": "Rosetta McClain Gardens",
+        "record_kind": "catalogue_coordinate",
+        "source_dataset": "sites_ca_baseline_on.dataset",
+        "source_url": "https://www.openstreetmap.org/way/43605598",
+        "licence": "https://opendatacommons.org/licenses/odbl/1-0/",
+        "coordinate_method": "Selected named OpenStreetMap feature returned by Nominatim; identity and locality cross-checked against the primary source."
       }
     },
     {
@@ -5437,6 +5551,25 @@
         "source_url": "https://www.openstreetmap.org/way/260057689",
         "licence": "https://opendatacommons.org/licenses/odbl/1-0/",
         "coordinate_method": "Fetched representative point of the explicitly selected named OpenStreetMap feature."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.9119033,
+          -36.9973103
+        ]
+      },
+      "properties": {
+        "id": "nz_auk_totara_park",
+        "name": "Tōtara Park",
+        "record_kind": "catalogue_coordinate",
+        "source_dataset": "sites_nz_baseline_auk.dataset",
+        "source_url": "https://www.openstreetmap.org/way/66643358",
+        "licence": "https://opendatacommons.org/licenses/odbl/1-0/",
+        "coordinate_method": "Selected named OpenStreetMap feature returned by Nominatim; identity and locality cross-checked against the primary source."
       }
     },
     {
@@ -6831,6 +6964,25 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          174.8764554,
+          -41.2140904
+        ]
+      },
+      "properties": {
+        "id": "nz_wgn_percy_scenic_reserve",
+        "name": "Percy Scenic Reserve",
+        "record_kind": "catalogue_coordinate",
+        "source_dataset": "sites_nz_baseline_wgn.dataset",
+        "source_url": "https://www.openstreetmap.org/way/165279857",
+        "licence": "https://opendatacommons.org/licenses/odbl/1-0/",
+        "coordinate_method": "Selected named OpenStreetMap feature returned by Nominatim; identity and locality cross-checked against the primary source."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           175.2766803,
           -37.7957866
         ]
@@ -7724,6 +7876,25 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -110.9774814,
+          32.2257897
+        ]
+      },
+      "properties": {
+        "id": "us_az_alene_dunlap_smith_garden",
+        "name": "Alene Dunlap Smith Garden",
+        "record_kind": "catalogue_coordinate",
+        "source_dataset": "sites_us_baseline_az.dataset",
+        "source_url": "https://www.openstreetmap.org/way/664008459",
+        "licence": "https://opendatacommons.org/licenses/odbl/1-0/",
+        "coordinate_method": "Selected named OpenStreetMap mapped-feature representative point returned by Nominatim."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -111.945082,
           33.4612661
         ]
@@ -7736,6 +7907,25 @@
         "source_url": "https://www.openstreetmap.org/way/34580212",
         "licence": "https://opendatacommons.org/licenses/odbl/1-0/",
         "coordinate_method": "Selected exact named OpenStreetMap feature returned by Nominatim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.08922,
+          33.4749925
+        ]
+      },
+      "properties": {
+        "id": "us_az_encanto_park",
+        "name": "Encanto Park",
+        "record_kind": "catalogue_coordinate",
+        "source_dataset": "sites_us_baseline_az.dataset",
+        "source_url": "https://www.openstreetmap.org/relation/17895897",
+        "licence": "https://opendatacommons.org/licenses/odbl/1-0/",
+        "coordinate_method": "Selected named OpenStreetMap mapped-feature representative point returned by Nominatim."
       }
     },
     {
@@ -7774,6 +7964,25 @@
         "source_url": "https://www.openstreetmap.org/way/248614888",
         "licence": "https://opendatacommons.org/licenses/odbl/1-0/",
         "coordinate_method": "Nominatim representative point for exact named OSM feature"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.9870695,
+          32.2134897
+        ]
+      },
+      "properties": {
+        "id": "us_az_mission_garden",
+        "name": "Mission Garden",
+        "record_kind": "catalogue_coordinate",
+        "source_dataset": "sites_us_baseline_az.dataset",
+        "source_url": "https://www.openstreetmap.org/way/909725325",
+        "licence": "https://opendatacommons.org/licenses/odbl/1-0/",
+        "coordinate_method": "Selected named OpenStreetMap mapped-feature representative point returned by Nominatim."
       }
     },
     {
@@ -8534,6 +8743,25 @@
         "source_url": "https://www.openstreetmap.org/way/52957908",
         "licence": "https://opendatacommons.org/licenses/odbl/1-0/",
         "coordinate_method": "Nominatim representative point for exact named OSM feature"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.9710337,
+          39.7020811
+        ]
+      },
+      "properties": {
+        "id": "us_co_washington_park",
+        "name": "Washington Park",
+        "record_kind": "catalogue_coordinate",
+        "source_dataset": "sites_us_baseline_co.dataset",
+        "source_url": "https://www.openstreetmap.org/way/28549780",
+        "licence": "https://opendatacommons.org/licenses/odbl/1-0/",
+        "coordinate_method": "Selected named OpenStreetMap mapped-feature representative point returned by Nominatim."
       }
     },
     {
@@ -10764,6 +10992,25 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -115.2716459,
+          36.3189985
+        ]
+      },
+      "properties": {
+        "id": "us_nv_floyd_lamb_park",
+        "name": "Floyd Lamb Park at Tule Springs",
+        "record_kind": "catalogue_coordinate",
+        "source_dataset": "sites_us_baseline_nv.dataset",
+        "source_url": "https://www.openstreetmap.org/way/130062098",
+        "licence": "https://opendatacommons.org/licenses/odbl/1-0/",
+        "coordinate_method": "Selected named OpenStreetMap mapped-feature representative point returned by Nominatim."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -115.1634654,
           36.1305027
         ]
@@ -12429,6 +12676,25 @@
         "source_url": "https://www.openstreetmap.org/way/225432173",
         "licence": "https://opendatacommons.org/licenses/odbl/1-0/",
         "coordinate_method": "Selected exact named OpenStreetMap feature returned by Nominatim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.8848444,
+          40.777179
+        ]
+      },
+      "properties": {
+        "id": "us_ut_memory_grove",
+        "name": "Memory Grove",
+        "record_kind": "catalogue_coordinate",
+        "source_dataset": "sites_us_baseline_ut.dataset",
+        "source_url": "https://www.openstreetmap.org/way/33162184",
+        "licence": "https://opendatacommons.org/licenses/odbl/1-0/",
+        "coordinate_method": "Selected named OpenStreetMap mapped-feature representative point returned by Nominatim."
       }
     },
     {
